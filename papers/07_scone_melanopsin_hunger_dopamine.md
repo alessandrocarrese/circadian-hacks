@@ -409,19 +409,30 @@ Frontal monitor positioning delivers high-intensity 445nm light directly to the 
 
 This adds a photodamage dimension to the S/M spatial hypothesis: beyond the dopamine/satiety dysregulation, chronic frontal high-S/M exposure may accelerate S-cone degeneration, potentially contributing to early-onset visual pathology in heavy screen users.
 
-**The vitamin D-S-cone protection paradox:**
+**The dual protection deficit: Vitamin D and red/NIR photobiomodulation:**
 
-Critically, vitamin D provides direct protection to cone cells against oxidative stress. Studies using the 661W cone cell line demonstrate that vitamin D:
+Natural outdoor light provides two distinct protective mechanisms against photoreceptor oxidative stress, both absent from indoor screen environments:
+
+**1. Vitamin D (UVB-dependent):**
+Vitamin D provides direct protection to cone cells against oxidative stress. Studies using the 661W cone cell line demonstrate that vitamin D:
 - Increases cone cell viability under oxidative stress conditions
 - Reduces reactive oxygen species (ROS) production
 - Restores expression of antioxidant genes
 - Blocks oxidative damage pathways (Albert et al., 2016)
 
-This creates a vicious cycle for chronic screen users:
+**2. Red/NIR photobiomodulation (direct photonic):**
+Red (620-700nm) and near-infrared (700-1000nm) wavelengths provide direct cytoprotection independent of vitamin D:
+- NIR activates cytochrome c oxidase (Complex IV), enhancing mitochondrial ATP production
+- Improved mitochondrial function reduces electron leakage and ROS generation
+- Red/NIR pre-conditioning protects photoreceptors against subsequent blue light damage
+- Natural sunlight contains 40-50% red/NIR; LED monitors contain <1%
+
+This creates a triple deficit for chronic screen users:
 
 | Factor | Effect | Source |
 |--------|--------|--------|
 | High-S/M monitor spectrum | Delivers oxidative stress to S-cones | Monitor light |
+| Zero NIR content | No photobiomodulation protection | Monitor spectrum |
 | Indoor screen time | Zero UVB exposure | Behavioral |
 | Zero UVB | No vitamin D synthesis | Photochemical |
 | Vitamin D deficiency | Reduced cone protection | Metabolic |
@@ -429,9 +440,12 @@ This creates a vicious cycle for chronic screen users:
 
 The screen user simultaneously:
 1. **Delivers the assault**: 445nm light generating ROS in S-cones
-2. **Removes the defense**: No UVB means no vitamin D to protect against oxidative damage
+2. **Removes first defense**: Zero NIR means no photobiomodulation to enhance mitochondrial resilience
+3. **Removes second defense**: Zero UVB means no vitamin D to protect against oxidative damage
 
-This may explain why heavy screen users report visual fatigue and discomfort disproportionate to light intensity-they are experiencing the compounding effect of S-cone oxidative stress without the vitamin D-mediated protection that outdoor light exposure would provide. The very behavior that causes the damage (screen use) prevents the protective response (vitamin D synthesis) that would mitigate it.
+Natural outdoor light delivers the opposite pattern: abundant red/NIR (40-50% of spectrum) primes mitochondrial defenses, while UVB triggers vitamin D synthesis. The blue component of sunlight arrives with its protective countermeasures already in place. LED monitors deliver the assault (445nm) without either protective mechanism-pure offense, no defense.
+
+This may explain why heavy screen users report visual fatigue and discomfort disproportionate to light intensity-they are experiencing the compounding effect of S-cone oxidative stress without either the vitamin D-mediated or NIR-mediated protection that outdoor light exposure would provide. The very behavior that causes the damage (screen use) prevents both protective responses that would mitigate it.
 
 **The dark gaming room as worst case:**
 
