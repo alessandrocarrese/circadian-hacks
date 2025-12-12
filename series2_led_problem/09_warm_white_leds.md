@@ -47,6 +47,16 @@ Warm LEDs match natural evening light on S-cone content-they won't suppress mela
 
 Warm LEDs have metabolically favorable ratios-low insulin resistance risk, low hunger signaling.
 
+### Excellent S/M Ratio (Appetite Safety)
+| Source | S/M Ratio | Assessment |
+|--------|-----------|------------|
+| Natural light | 0.69-1.13 | Baseline |
+| Best warm LED | 0.56 | Below natural (safe) |
+| Typical warm | 0.6-0.9 | Within natural |
+| Cold LED (448nm) | 1.88 | 66% above max (hunger risk) |
+
+This is a major advantage of warm LEDs. Their longer-wavelength blue peaks (455-460nm) create S/M ratios well within or below natural range, avoiding the appetite dysregulation that cold LEDs trigger. See [The S/M Ratio](../series1_science/07_sm_ratio_hunger.md) for the mechanism.
+
 ### Color Rendering
 High-quality warm LEDs (CRI >95, R9 >90) render colors beautifully, particularly in the red/orange range. Skin tones look healthy, food looks appetizing, spaces feel inviting.
 

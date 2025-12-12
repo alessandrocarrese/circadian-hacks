@@ -49,6 +49,8 @@ These aren't competing systems-they work **sequentially**. When you're first exp
 
 **Note**: There's also **OPN3 (encephalopsin)** at 460-470nm, which overlaps both ranges and may influence metabolism and skin pigmentation. This emerging research may explain some metabolic effects of mid-range CCT lighting.
 
+**Quantifying the balance**: The S-cone to Melanopsin (S/M) ratio measures the relative stimulation of these two systems. Natural light maintains S/M ratios between 0.69-1.13. LEDs with 448nm peaks create S/M ratios of 1.88-higher S-cone stimulation triggers dopamine-mediated appetite dysregulation. See [The S/M Ratio](07_sm_ratio_hunger.md) for detailed analysis.
+
 
 ## The 6.5-Hour Transition
 

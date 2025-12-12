@@ -67,6 +67,13 @@ Using established photobiological criteria, here's how cold LEDs score:
 - **Natural baseline**: 17%
 - **Assessment**: CRITICAL (84% deficit)
 
+### S/M Ratio (Appetite Dysregulation)
+- **Measured**: 1.88 (for typical 6258K LED with 448nm peak)
+- **Natural range**: 0.69-1.13
+- **Assessment**: CRITICAL (66% above natural maximum-triggers hunger via dopamine/orexin pathway)
+
+The 448nm blue peak maximally stimulates S-cones while underactivating melanopsin, creating a "wanting without satisfaction" signal that drives chronic appetite. See [The S/M Ratio](../series1_science/07_sm_ratio_hunger.md) for the full mechanism.
+
 ### Duration Limit
 - **Calculated**: 2-3 hours maximum
 - **Reason**: S-cone overstimulation, HPA axis activation

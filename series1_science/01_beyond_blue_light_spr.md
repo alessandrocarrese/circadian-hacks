@@ -48,6 +48,8 @@ Where:
 
 A higher SPR means more protective wavelengths relative to potentially harmful ones.
 
+**Note**: SPR addresses phototoxic protection (retinal damage, oxidative stress). A complementary metric-the **S/M ratio** (S-cone to Melanopsin ratio)-addresses appetite dysregulation via dopamine signaling. Two sources can have identical SPR but different S/M ratios, creating opposite metabolic effects. See [The S/M Ratio](07_sm_ratio_hunger.md) for detailed analysis.
+
 
 ## What Does Natural Light Look Like?
 

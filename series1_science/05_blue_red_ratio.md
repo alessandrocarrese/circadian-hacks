@@ -140,22 +140,26 @@ The mechanism is straightforward:
 **You're not actually hungry-your cells just can't access the glucose in your blood.**
 
 
-## Blue:Red vs SPR: Related But Different
+## Blue:Red vs SPR vs S/M Ratio: Three Metabolic Metrics
 
-We introduced SPR (Spectral Protection Ratio) in an earlier article. How does blue:red ratio relate?
+We introduced SPR (Spectral Protection Ratio) in an earlier article. How does blue:red ratio relate-and what about the S/M ratio?
 
-**SPR = (Red + NIR) / Blue**
-**Blue:Red = Blue / Red**
+**SPR = (Red + NIR) / Blue** - Protective vs harmful wavelength balance
+**Blue:Red = Blue / Red** - Insulin sensitivity signal
+**S/M Ratio = S-cone band (420-460nm) / Melanopsin band (460-500nm)** - Appetite regulation signal
 
-These are inversely related but measure slightly different things:
-- **SPR** emphasizes protective wavelengths (including NIR)
-- **Blue:Red** focuses on the metabolic balance
+These measure different metabolic pathways:
+- **SPR** emphasizes protective wavelengths (including NIR) - relates to photochemical stress
+- **Blue:Red** focuses on the insulin sensitivity mechanism - pancreatic function via SCN
+- **S/M Ratio** focuses on appetite regulation - dopamine/orexin pathway via retinal amacrine cells
+
+**Key distinction**: A light source can have favorable blue:red ratio but problematic S/M ratio (or vice versa). The 448nm vs 455nm peak difference barely affects blue:red ratio but doubles the S/M ratio. See [The S/M Ratio](07_sm_ratio_hunger.md) for detailed analysis of the appetite-specific pathway.
 
 For practical purposes:
-- High SPR → Low blue:red ratio → Good metabolic profile
-- Low SPR → High blue:red ratio → Poor metabolic profile
+- High SPR → Low blue:red ratio → Good metabolic profile (insulin sensitivity)
+- Low S/M ratio (<1.13) → Normal appetite signaling (no hunger dysregulation)
 
-A source with SPR > 3.5 will typically have blue:red < 0.5:1 (safe zone).
+A source with SPR > 3.5 will typically have blue:red < 0.5:1 (safe zone). But you still need to verify S/M ratio if extended use causes unexplained hunger.
 
 
 ## The R9 Predictor
