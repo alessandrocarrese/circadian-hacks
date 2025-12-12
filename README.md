@@ -4,9 +4,44 @@ Research-based articles on how artificial lighting affects human health, metabol
 
 ## Overview
 
-Modern LED lighting differs dramatically from natural sunlight in ways that standard metrics like color temperature (CCT) fail to capture. This blog explores the spectral differences and their biological implications, based on original measurements of 91+ light sources.
+Modern LED lighting differs dramatically from natural sunlight in ways that standard metrics like color temperature (CCT) fail to capture. This research explores the spectral differences and their biological implications, based on original measurements of 91+ light sources.
 
-## Series
+---
+
+## Scientific Papers
+
+Full peer-review-ready research papers with complete methodology, data, and references:
+
+### [Spectral Protection Ratio (SPR): A Novel Metric for Photobiological Safety](papers/SPR_Scientific_Paper_improved.md)
+*Beyond Blue Light Hazard: Spectral Balance, NIR Deficit, and Health Implications of Modern Indoor Lighting*
+
+A comprehensive analysis introducing the Spectral Protection Ratio (SPR) - a metric quantifying the balance between protective red/NIR wavelengths and potentially damaging blue wavelengths. Includes:
+- Natural daylight reference measurements (SPR 1.54-4.95)
+- LED bulb analysis showing ALL cool white LEDs score HIGH RISK or CRITICAL
+- Discovery of 69-79% NIR deficit in all LED sources
+- Dual-criteria safety standards: SPR ≥1.7 AND NIR ≥15%
+- 80 peer-reviewed references
+
+### [Violet-Pump LED Analysis](papers/violet_led_section.md)
+Analysis of violet-pump (405nm) LED technology: spectral characteristics, DNA damage potential, and comparison with blue-pump LEDs.
+
+### Single-Topic Papers
+
+Additional research papers in manuscript format, ready for journal submission:
+
+| Paper | Title | Key Finding |
+|-------|-------|-------------|
+| [Natural Light Spectral Protection](papers/single/01_natural_light_spectral_protection.md) | Spectral Dynamics of Natural Light and the SPR | S-cone % declines 56% from dawn to midday; LEDs provide "perpetual dawn" signal |
+| [UV-Circadian Dissociation](papers/single/02_uv_circadian_dissociation.md) | UV-Circadian Signal Dissociation & Myopia | Eyeglasses block 79% UV while enhancing melanopsin 22%, creating 5.8× dissociation |
+| [Violet-Pump LED Analysis](papers/single/04_violet_pump_led_analysis.md) | Trading Metabolic Photodamage for Mutagenic Risk | Violet LEDs reduce metabolic damage ~25% but increase DNA damage ~190% |
+| [Window Glass NIR Deficit](papers/single/06_window_glass_nir_deficit.md) | NIR Transmission in Architectural Glazing | Modern Low-E windows create 8.4% NIR deficit vs vintage glass |
+| [S/M Ratio & Hunger](papers/single/07_scone_melanopsin_hunger_dopamine.md) | S-cone/Melanopsin Ratio and Appetite Regulation | Monitors S/M ratio up to 157% above natural; mechanism for screen-associated hunger |
+
+See [papers/single/00_INDEX.md](papers/single/00_INDEX.md) for full index and publication strategy.
+
+---
+
+## Article Series
 
 ### Series 1: The Science
 Foundational concepts and metrics for understanding light quality.
