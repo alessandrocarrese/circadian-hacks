@@ -26,7 +26,7 @@ Human physiology evolved under natural light characterized by predictable spectr
 - **Melanopsin-containing ipRGCs**: Peak sensitivity ~480nm, non-visual functions including circadian entrainment, pupillary response, and hypothalamic signaling
 - **M-cones and L-cones**: Longer wavelength sensitivity, primarily visual function
 
-The spectral composition of light—specifically the ratio of shorter to longer wavelengths within the blue-cyan range—determines the relative activation of these systems and consequently influences both visual processing and systemic physiology.
+The spectral composition of light-specifically the ratio of shorter to longer wavelengths within the blue-cyan range-determines the relative activation of these systems and consequently influences both visual processing and systemic physiology.
 
 ### 1.2 The Dopamine Connection
 
@@ -59,11 +59,11 @@ Berridge and Robinson's incentive salience theory distinguishes between:
 - **Wanting** (dopamine-mediated): Motivation, craving, seeking behavior
 - **Liking** (opioid-mediated): Pleasure, satisfaction, consummatory reward
 
-Dopamine primarily drives "wanting"—the urge to seek and acquire—while the satisfaction of having acquired is mediated by separate opioid circuits (Berridge & Robinson, 1998). A system that stimulates "wanting" without enabling "liking" produces a state of perpetual unsatisfied craving.
+Dopamine primarily drives "wanting"-the urge to seek and acquire-while the satisfaction of having acquired is mediated by separate opioid circuits (Berridge & Robinson, 1998). A system that stimulates "wanting" without enabling "liking" produces a state of perpetual unsatisfied craving.
 
 ### 1.5 Hypothesis
 
-We hypothesize that the ratio of S-cone to melanopsin activation (S/M ratio) determines the balance between dopaminergic "wanting" signals and hypothalamic satiety/satisfaction signals. Natural light maintains S/M ratios within a narrow range (approximately 0.7-1.1) that produces balanced signaling. Modern artificial light sources, particularly LED displays with spectral peaks near 445nm, produce S/M ratios far exceeding natural ranges, potentially inducing chronic dopaminergic activation without corresponding satiety signaling—a neurobiological substrate for chronic hunger, craving, and compulsive behavior.
+We hypothesize that the ratio of S-cone to melanopsin activation (S/M ratio) determines the balance between dopaminergic "wanting" signals and hypothalamic satiety/satisfaction signals. Natural light maintains S/M ratios within a narrow range (approximately 0.7-1.1) that produces balanced signaling. Modern artificial light sources, particularly LED displays with spectral peaks near 445nm, produce S/M ratios far exceeding natural ranges, potentially inducing chronic dopaminergic activation without corresponding satiety signaling-a neurobiological substrate for chronic hunger, craving, and compulsive behavior.
 
 ---
 
@@ -127,7 +127,7 @@ Table 1 presents S/M ratios across natural light conditions.
 | Afternoon | 5 | 0.79-0.89 | 0.84 ± 0.04 | 473-500 |
 | Sunset/Dusk | 4 | 0.99-1.05 | 1.02 ± 0.03 | 451 |
 | Indoor/Window | 6 | 0.69-0.99 | 0.83 ± 0.11 | 495-500 |
-| **All Natural** | **33** | **0.69-1.13** | **0.92 ± 0.12** | — |
+| **All Natural** | **33** | **0.69-1.13** | **0.92 ± 0.12** | - |
 
 Critical finding: **No natural light condition exceeded S/M = 1.13**
 
@@ -151,11 +151,11 @@ Building shade (pure Rayleigh-scattered skylight, no direct sun) showed the high
 
 | Source Category | n | S/M Range | S/M Mean ± SD | Blue Peak (nm) |
 |-----------------|---|-----------|---------------|----------------|
-| Incandescent | 1 | 0.46 | — | 470 |
+| Incandescent | 1 | 0.46 | - | 470 |
 | Warm LED (2700K) | 8 | 0.56-0.83 | 0.72 ± 0.11 | 451-457 |
 | Neutral LED (4000-5000K) | 6 | 0.79-1.00 | 0.88 ± 0.09 | 450-470 |
 | Cold LED (6000-6500K) | 5 | 1.20-1.88 | 1.45 ± 0.30 | 448-452 |
-| Computer monitors | 3 | 1.33-2.90 | 1.86 ± 0.87 | 446-448 |
+| Computer monitors | 2 | 1.33-2.90 | 2.12 ± 1.11 | 446-448 |
 
 ### 3.4 Monitor Analysis
 
@@ -163,7 +163,6 @@ Building shade (pure Rayleigh-scattered skylight, no direct sun) showed the high
 
 | Monitor | Blue Peak | S-cone % | Melanopsin % | S/M Ratio | vs Natural Max |
 |---------|-----------|----------|--------------|-----------|----------------|
-| Monitor (warm mode) | 470nm | 5.31 | 15.18 | 0.35 | -69% |
 | Monitor (low blue) | 446nm | 19.10 | 14.39 | 1.33 | +18% |
 | Monitor (cool/normal) | 446nm | 21.18 | 7.30 | 2.90 | **+157%** |
 
@@ -201,7 +200,7 @@ S-cone sensitivity was modeled as Gaussian function peaking at 440nm (σ ≈ 20n
 | 460nm | 0.607 |
 | 480nm | 0.135 |
 
-A display peak at 445nm produces 7.2× more S-cone activation than melanopsin activation at 480nm, compared to 1.4× at 460nm—a 5-fold difference in S/M drive.
+A display peak at 445nm produces 7.2× more S-cone activation than melanopsin activation at 480nm, compared to 1.4× at 460nm-a 5-fold difference in S/M drive.
 
 ---
 
@@ -295,7 +294,7 @@ All day:   S/M 2.9   → "SEEK SEEK SEEK SEEK SEEK"
 Night:     S/M 2.9   → "SEEK" (when expecting 0)
 ```
 
-The circadian variation in S/M ratio may itself be a biological signal—the trajectory indicating time-of-day. Static high S/M eliminates this signal, producing:
+The circadian variation in S/M ratio may itself be a biological signal-the trajectory indicating time-of-day. Static high S/M eliminates this signal, producing:
 1. Loss of temporal appetite regulation
 2. Loss of circadian metabolic cues
 3. Continuous foraging activation
@@ -332,7 +331,7 @@ Epidemiological associations between screen time and various conditions may be e
 | Sleep disorders | Strong positive | Circadian + arousal disruption |
 | Depression | Positive | Dopamine depletion after chronic elevation |
 
-These associations are typically attributed to content (social media, gaming) or behavioral displacement (reduced exercise). The S/M hypothesis suggests a **photobiological mechanism independent of content**—the light itself may drive pathology regardless of what is displayed.
+These associations are typically attributed to content (social media, gaming) or behavioral displacement (reduced exercise). The S/M hypothesis suggests a **photobiological mechanism independent of content**-the light itself may drive pathology regardless of what is displayed.
 
 ### 4.8 Why 445nm?
 
@@ -391,7 +390,7 @@ Biological compatibility was not a design criterion. A shift to 460-470nm primar
 
 Natural light maintains S-cone/melanopsin ratios within a narrow range (0.69-1.13) across all measured conditions from dawn to dusk. Modern LED displays produce S/M ratios of 1.3-2.9, exceeding natural maxima by up to 157%. Given established pathways connecting S-cone activation to retinal dopamine release and melanopsin to hypothalamic satiety circuits, chronic exposure to high-S/M light may produce sustained dopaminergic "wanting" without corresponding satisfaction signaling.
 
-This S/M dysregulation hypothesis provides a photobiological mechanism potentially contributing to the observed associations between screen time and obesity, compulsive eating, attention disorders, and addictive behavior patterns. The mechanism operates independently of screen content—the spectral composition itself may drive pathology.
+This S/M dysregulation hypothesis provides a photobiological mechanism potentially contributing to the observed associations between screen time and obesity, compulsive eating, attention disorders, and addictive behavior patterns. The mechanism operates independently of screen content-the spectral composition itself may drive pathology.
 
 Display manufacturers should consider biological compatibility alongside technical performance. Shifting LED primaries from 445nm toward 460-470nm would reduce S/M ratios toward natural ranges with minimal impact on color rendering. Individual users can reduce S/M exposure by:
 - Using warm/night modes that shift spectrum toward longer wavelengths

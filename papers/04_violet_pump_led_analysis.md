@@ -55,7 +55,7 @@ Different wavelengths induce damage through distinct molecular pathways:
 
 ### 1.4 Study Objective
 
-This analysis examines whether violet-pump LED technology, by reducing emission in the 430-470nm range while increasing emission in the 380-420nm range, may trade reduced metabolic photodamage for increased mutagenic risk—a trade-off not captured by current photometric safety standards.
+This analysis examines whether violet-pump LED technology, by reducing emission in the 430-470nm range while increasing emission in the 380-420nm range, may trade reduced metabolic photodamage for increased mutagenic risk-a trade-off not captured by current photometric safety standards.
 
 ---
 
@@ -206,7 +206,7 @@ If violet-pump LEDs do increase DNA damage rates, this would not be expected to 
 - Potentially elevated rates of skin malignancy
 - Contribution to age-related macular degeneration (AMD) via lipofuscin and DNA pathways
 
-These outcomes would require epidemiological surveillance with 10-30 year follow-up—far exceeding the commercial introduction of violet-pump products.
+These outcomes would require epidemiological surveillance with 10-30 year follow-up-far exceeding the commercial introduction of violet-pump products.
 
 ### 4.5 Research Priorities
 

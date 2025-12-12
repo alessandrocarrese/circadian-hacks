@@ -10,7 +10,7 @@
 
 **Results:** Natural light exhibited an inverse relationship between illuminance and short-wavelength content: S-cone activation declined from 18.0% (dawn, 12 lux) to 8.8% (noon, 95,326 lux), a 56% reduction. This temporal decline (slope: -0.82%/hour) parallels published evidence that S-cone contribution to circadian signaling decreases from 51% to 4% over exposure duration. Natural light SPR ranged from 1.54 to 10.54 (mean 3.82), with NIR averaging 22.1%. Cold LEDs (>5000K) showed inverted SPR (0.53-0.81) with static spectral composition regardless of exposure duration. A cold LED maintained from dawn provides 165% excess S-cone stimulation by midday compared to natural temporal decline.
 
-**Conclusions:** Natural light exhibits both intensity-dependent spectral modulation and temporal dynamics that may serve as circadian time-of-day signals. The temporal trajectory of declining S-cone percentage—not just instantaneous composition—may constitute a biologically relevant signal. Static artificial lighting cannot replicate these dynamics. The SPR metric and temporal trajectory analysis together reveal fundamental departures of LED lighting from natural spectral patterns, with potential implications for circadian and neuroendocrine function.
+**Conclusions:** Natural light exhibits both intensity-dependent spectral modulation and temporal dynamics that may serve as circadian time-of-day signals. The temporal trajectory of declining S-cone percentage-not just instantaneous composition-may constitute a biologically relevant signal. Static artificial lighting cannot replicate these dynamics. The SPR metric and temporal trajectory analysis together reveal fundamental departures of LED lighting from natural spectral patterns, with potential implications for circadian and neuroendocrine function.
 
 **Keywords:** circadian rhythm, spectral power distribution, S-cone, melanopsin, photobiomodulation, near-infrared, LED, natural light, temporal dynamics, HPA axis
 
@@ -32,7 +32,7 @@ Natural daylight varies systematically in spectral composition due to atmospheri
 - **Evening:** Declining intensity, initially low then rising short-wavelength percentage
 - **Dusk:** Low intensity, moderate short-wavelength percentage (skylight again dominates)
 
-However, quantitative characterization of these changes during the dawn-to-daylight transition—the period when circadian phase-shifting effects are maximal (Khalsa et al., 2003)—remains limited.
+However, quantitative characterization of these changes during the dawn-to-daylight transition-the period when circadian phase-shifting effects are maximal (Khalsa et al., 2003)-remains limited.
 
 ### 1.2 Static Artificial Light
 
@@ -294,7 +294,7 @@ Critical observations:
 | Cold LED (>5000K) | 5 | 0.53-0.81 | 0.68 ± 0.11 | 0.8 |
 | SAD lamps | 3 | 0.81-1.62 | 1.32 ± 0.43 | 1.4 |
 | Monitors | 2 | 0.64-4.30 | 2.47 ± 2.59 | 0.2 |
-| Incandescent (ref) | 1 | 14.2 | — | 42.3 |
+| Incandescent (ref) | 1 | 14.2 | - | 42.3 |
 | **Natural light** | **29** | **1.54-10.54** | **3.82 ± 2.14** | **22.1** |
 
 ### 3.9 NIR Deficit in LED Sources
@@ -305,7 +305,7 @@ All LED sources showed NIR content substantially below natural light baselines:
 
 | Source | NIR % (700-780nm) | Deficit vs Natural (22%) |
 |--------|-------------------|--------------------------|
-| Natural light mean | 22.1 | — |
+| Natural light mean | 22.1 | - |
 | Natural direct sun | 28.4 | +29% |
 | Natural tree shade | 26.1 | +18% |
 | Best warm LED | 7.2 | -67% |
@@ -328,7 +328,7 @@ Published data on S-cone/melanopsin temporal contributions (Spitschan et al., 20
 | Third quarter | 16% | 72% |
 | Final quarter | 4% | 92% |
 
-This indicates the circadian system progressively "hands off" from S-cone to melanopsin sensitivity over 1-3 hours of light exposure—paralleling the natural decline in S-cone activation percentage observed in our data.
+This indicates the circadian system progressively "hands off" from S-cone to melanopsin sensitivity over 1-3 hours of light exposure-paralleling the natural decline in S-cone activation percentage observed in our data.
 
 ---
 
@@ -353,7 +353,7 @@ These data support the hypothesis that natural light temporal dynamics constitut
 2. **Photoreceptor contribution shifts** from S-cone-dominant (51%) to melanopsin-dominant (92%) over 1-3 hours
 3. **HPA axis sensitivity is temporally gated** to the 5-9am window
 
-This suggests the circadian system may use the **temporal trajectory** of spectral change—not just instantaneous values—as a time-of-day cue.
+This suggests the circadian system may use the **temporal trajectory** of spectral change-not just instantaneous values-as a time-of-day cue.
 
 ### 4.3 Static LED Provides Inappropriate Temporal Signal
 
@@ -388,7 +388,7 @@ This suggests that even if cold LEDs are used briefly in the morning, extended u
 
 ### 4.6 Natural Light as Spectral Reference Standard
 
-Across all 29 measured conditions—dawn through dusk, direct sun through building shade—natural light maintained SPR ≥ 1.5 with mean SPR = 3.82. This establishes that human physiology evolved with consistent exposure to light in which red/NIR content exceeded blue content by factors of 1.5-10×.
+Across all 29 measured conditions-dawn through dusk, direct sun through building shade-natural light maintained SPR ≥ 1.5 with mean SPR = 3.82. This establishes that human physiology evolved with consistent exposure to light in which red/NIR content exceeded blue content by factors of 1.5-10×.
 
 The lowest natural SPR (1.95) was observed in noon building shade, representing pure Rayleigh-scattered skylight with no direct solar component. This condition also showed the highest S-cone activation (15.27%), consistent with the physics of atmospheric scattering preferentially transmitting short wavelengths when direct sunlight is fully occluded.
 
@@ -481,11 +481,11 @@ Human gaze during outdoor activity is predominantly horizontal, suggesting that 
 
 Natural light during the dawn-to-daylight transition exhibits an inverse relationship between illuminance and short-wavelength content, with corresponding increase in protective long-wavelength content as intensity rises. S-cone activation declines 56% from dawn to midday, paralleling published evidence that S-cone contribution to circadian signaling shifts from 51% to 4% over exposure duration.
 
-This temporal trajectory—not just instantaneous spectral composition—may serve as a time-of-day signal for circadian and neuroendocrine systems. Static artificial lighting cannot replicate these dynamics, providing constant spectral composition regardless of duration. Cold LEDs maintain "dawn-level" S-cone activation throughout exposure, potentially providing temporally inappropriate signals.
+This temporal trajectory-not just instantaneous spectral composition-may serve as a time-of-day signal for circadian and neuroendocrine systems. Static artificial lighting cannot replicate these dynamics, providing constant spectral composition regardless of duration. Cold LEDs maintain "dawn-level" S-cone activation throughout exposure, potentially providing temporally inappropriate signals.
 
 The Spectral Protection Ratio (SPR) captures the natural balance between protective (red/NIR) and circadian-active (blue) wavelengths, revealing that natural light maintains SPR ≥ 1.5 (mean 3.82) with NIR content averaging 22%. LED sources show systematic departures: cold LEDs exhibit spectral inversion (SPR < 1.0), and all LEDs show NIR content 67-96% below natural baselines.
 
-These findings suggest that comprehensive assessment of light sources for human health applications should include SPR, absolute NIR content, and consideration of temporal dynamics alongside existing circadian metrics. Lighting systems that modulate spectral composition across the day—rather than maintaining static spectra—may better align with evolved photoreceptive mechanisms.
+These findings suggest that comprehensive assessment of light sources for human health applications should include SPR, absolute NIR content, and consideration of temporal dynamics alongside existing circadian metrics. Lighting systems that modulate spectral composition across the day-rather than maintaining static spectra-may better align with evolved photoreceptive mechanisms.
 
 ---
 

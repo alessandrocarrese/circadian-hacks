@@ -1,6 +1,6 @@
 ### 4.8.9 The Violet-Pump LED Paradox: Trading Riboflavin Damage for DNA Damage
 
-Recent premium LED technologies have adopted violet LED pumps (405-420 nm) instead of conventional blue pumps (450 nm) to achieve superior color rendering (CRI >95, R9 >90) while ostensibly "reducing blue light hazard." However, comprehensive analysis of damage mechanisms reveals this approach may trade reversible metabolic stress for irreversible mutagenic burden—a potentially unfavorable exchange with long-term health implications.
+Recent premium LED technologies have adopted violet LED pumps (405-420 nm) instead of conventional blue pumps (450 nm) to achieve superior color rendering (CRI >95, R9 >90) while ostensibly "reducing blue light hazard." However, comprehensive analysis of damage mechanisms reveals this approach may trade reversible metabolic stress for irreversible mutagenic burden-a potentially unfavorable exchange with long-term health implications.
 
 #### 4.8.9.1 Violet vs Blue: Two Distinct Damage Mechanisms
 
@@ -83,7 +83,7 @@ Violet (405 nm) lies only 5 nm above the UV-A boundary (400 nm), occupying a spe
 Equivalent UV-A damage: ~6,000-8,000 hours (30-40% efficiency)
 Expected effects: Accelerated photoaging, uneven pigmentation, increased carcinogenic burden
 
-**Critical difference from UV-A:** Violet provides **zero vitamin D synthesis** (requires UV-B 290-320 nm), **no nitric oxide release** (UV-A benefit), and **no endorphin production**—pure harm without compensatory benefits.
+**Critical difference from UV-A:** Violet provides **zero vitamin D synthesis** (requires UV-B 290-320 nm), **no nitric oxide release** (UV-A benefit), and **no endorphin production**-pure harm without compensatory benefits.
 
 #### 4.8.9.5 The Natural UV-A:NIR Protection Ratio
 
@@ -96,7 +96,7 @@ Natural sunlight exhibits a critical protective balance absent in artificial sou
 
 **UV-A : NIR ratio = 1:8.5**
 
-**This 8.5-fold NIR excess is not coincidental**—it represents the co-evolved photoprotection mechanism:
+**This 8.5-fold NIR excess is not coincidental**-it represents the co-evolved photoprotection mechanism:
 
 **NIR (especially 800-1000 nm) activates cytochrome c oxidase →**
 - Increased ATP production (+300% above baseline)
@@ -138,7 +138,7 @@ Natural sunlight exhibits a critical protective balance absent in artificial sou
 - Actual NIR: ~3 W/m²
 - **Deficit: 127 W/m² (-98% shortfall)**
 
-**Practical implication:** Users of violet-pump LEDs would need dedicated NIR panels delivering ~400-500 lux NIR equivalent to restore natural photoprotection—an impractical and costly supplementation strategy.
+**Practical implication:** Users of violet-pump LEDs would need dedicated NIR panels delivering ~400-500 lux NIR equivalent to restore natural photoprotection-an impractical and costly supplementation strategy.
 
 #### 4.8.9.6 Reversible vs Irreversible Damage: Risk-Benefit Analysis
 
@@ -267,4 +267,4 @@ Violet-pump LED technology represents a **lateral trade-off** rather than a net 
 
 **Incandescent and halogen sources remain the only artificial light sources that maintain natural-like spectral balance** (minimal <420 nm content, high NIR 20-25%, SPR >5.0, damage:protection ratio <0.2) without requiring supplementation or protective equipment.
 
-**The spectral evolution of artificial lighting—incandescent → blue-pump LED → violet-pump LED—has not been a progression toward safety, but rather a series of compromises trading one harm for another while maintaining energy efficiency as the dominant design criterion.** True photobiological safety requires integration of SPR, NIR content, violet limits, and damage-to-protection ratios into mandatory standards, with evolutionary natural light serving as the non-negotiable reference.
+**The spectral evolution of artificial lighting-incandescent → blue-pump LED → violet-pump LED-has not been a progression toward safety, but rather a series of compromises trading one harm for another while maintaining energy efficiency as the dominant design criterion.** True photobiological safety requires integration of SPR, NIR content, violet limits, and damage-to-protection ratios into mandatory standards, with evolutionary natural light serving as the non-negotiable reference.

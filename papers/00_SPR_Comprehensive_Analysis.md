@@ -44,13 +44,13 @@ Near-infrared wavelengths (particularly 810 nm) provide similar neuroprotective 
 
 Current photobiological safety standards for light sources focus primarily on limiting exposure to potentially harmful wavelengths. The International Electrotechnical Commission standard IEC 62471:2006 defines blue light hazard exposure limits based on aphakic blue light hazard weighting functions, classifying sources into risk groups (RG0-RG3) [25]. The CIE S 026:2018 standard introduced α-opic quantities including melanopic equivalent daylight illuminance (EDI) to characterize circadian photoreception [26].
 
-However, **neither standard incorporates the protective effects of red/NIR wavelengths present in the same light source**. This represents a critical omission, as natural sunlight—the light environment to which human photoreceptors are evolutionarily adapted—contains substantial red and NIR content that may provide continuous photoprotection during simultaneous blue light exposure.
+However, **neither standard incorporates the protective effects of red/NIR wavelengths present in the same light source**. This represents a critical omission, as natural sunlight-the light environment to which human photoreceptors are evolutionarily adapted-contains substantial red and NIR content that may provide continuous photoprotection during simultaneous blue light exposure.
 
 ### 1.4 Natural Light as Reference Standard
 
 Natural daylight exhibits a continuous spectrum from UV through NIR, with spectral composition varying by solar elevation angle, atmospheric conditions, and time of day [27,28]. Critically, even at high color temperatures (>6000 K) associated with noon sunlight, natural light maintains substantial irradiance in red (620-700 nm) and NIR (700-850 nm) regions due to the sun's ~5800 K blackbody emission spectrum attenuated by atmospheric scattering [29].
 
-If red/NIR wavelengths provide photoprotection against blue light damage, the spectral balance in natural light may represent a safety threshold established through evolutionary adaptation. Artificial light sources with drastically different spectral balance—particularly those with elevated blue content and depleted red/NIR content—may exceed safe cumulative exposure levels despite meeting current photobiological safety standards.
+If red/NIR wavelengths provide photoprotection against blue light damage, the spectral balance in natural light may represent a safety threshold established through evolutionary adaptation. Artificial light sources with drastically different spectral balance-particularly those with elevated blue content and depleted red/NIR content-may exceed safe cumulative exposure levels despite meeting current photobiological safety standards.
 
 ### 1.5 Objectives
 
@@ -287,7 +287,7 @@ To systematically assess the photobiological safety of commercially-available co
 
 **Critical findings:**
 
-1. **ALL cool white LEDs scored HIGH RISK (1.0-1.5) or CRITICAL (<1.0)**—none achieved the natural light safety threshold (SPR >1.5). The best-performing source (normlite, SPR 1.47) barely approached the minimum acceptable level.
+1. **ALL cool white LEDs scored HIGH RISK (1.0-1.5) or CRITICAL (<1.0)**-none achieved the natural light safety threshold (SPR >1.5). The best-performing source (normlite, SPR 1.47) barely approached the minimum acceptable level.
 
 2. **Weighted SPR systematically lower than simple SPR** by 8-35% (mean: -26%), indicating that cool white LEDs emit red/NIR at suboptimal wavelengths and blue near peak damage wavelength (445 nm). Peak emissions at 452 nm fall within 7 nm of maximum A2E photooxidation damage (445 nm).
 
@@ -334,7 +334,7 @@ Short-wavelength violet light (380-420 nm) represents higher photon energy than 
 
 4. **Window-filtered light shows highest violet content** (2.75%) due to Rayleigh scattering within the room and multiple reflections. This explains the "harsh" perceptual quality of skylight through windows despite moderate blue content.
 
-5. **Warm LEDs not universally safe**: ledvanceafternoon (3676K, SPR 1.98) exhibited 0.98% violet content—**5× more than natural sunlight**—demonstrating that low CCT alone does not guarantee natural-like spectral composition.
+5. **Warm LEDs not universally safe**: ledvanceafternoon (3676K, SPR 1.98) exhibited 0.98% violet content-**5× more than natural sunlight**-demonstrating that low CCT alone does not guarantee natural-like spectral composition.
 
 6. **Optimal spectral quality: well24 (3955K)** achieved lowest violet content (0.15%), matching natural light levels, while maintaining moderate SPR (2.05) and moderate-warm CCT suitable for residential use.
 
@@ -399,7 +399,7 @@ Strong correlation was observed between SPR and CIE R9 (saturated red test color
 
 Note: The dimmed incandescent data point was excluded from correlation analysis as it represents a fundamentally different emission mechanism (thermal blackbody vs. LED phosphor conversion). However, it confirms the general trend: exceptional R9 (94.6) and CRI (97.4) values correspond to extraordinary SPR (112.74).
 
-R9 values <50 corresponded to critically low SPR (<1.0), while R9 >80 corresponded to safe SPR (>2.5). This reflects the fact that R9 test color requires strong emission in the 620-700 nm range—precisely the protective red band in SPR calculation.
+R9 values <50 corresponded to critically low SPR (<1.0), while R9 >80 corresponded to safe SPR (>2.5). This reflects the fact that R9 test color requires strong emission in the 620-700 nm range-precisely the protective red band in SPR calculation.
 
 General CRI (Ra) showed weaker correlation (r = 0.72), as high Ra can be achieved through metameric matching without necessarily providing adequate red content (e.g., extrA: Ra=85, SPR=0.98).
 
@@ -444,7 +444,7 @@ Computer monitors represent a uniquely hazardous exposure scenario due to prolon
 
 #### 3.7.1 Critical Findings
 
-1. **Standard "Cool" mode exhibits severely inverted spectrum (SPR 0.64)**—the worst spectral balance encountered in this study, with 28.60% blue content and near-zero NIR (0.004 W/m²). Blue emission peaked at ~445 nm, precisely matching maximum A2E photooxidation wavelength.
+1. **Standard "Cool" mode exhibits severely inverted spectrum (SPR 0.64)**-the worst spectral balance encountered in this study, with 28.60% blue content and near-zero NIR (0.004 W/m²). Blue emission peaked at ~445 nm, precisely matching maximum A2E photooxidation wavelength.
 
 2. **Custom "Low Blue" mode (blue channel = 0) dramatically improves SPR to 4.30** (+572%), reducing blue content by 74% (28.60% → 7.35%) while increasing red content 77% (17.75% → 31.40%). Residual 7.35% blue represents intrinsic LED phosphor leakage that cannot be eliminated via software control.
 
@@ -613,7 +613,7 @@ Modern window technology, while optimized for thermal energy efficiency, creates
 
 ### 3.9 Natural Shade as Reference Standard for Indoor Lighting
 
-Direct sunlight measurements (7895 lux, SPR 1.47) represent intermittent outdoor exposure conditions (2-4 hours daily). However, **natural shade** provides a more appropriate reference baseline for prolonged indoor exposure scenarios, as it represents the light environment humans would experience during extended daytime activities in shaded outdoor locations—the evolutionary context for 8-10 hour daily light exposure.
+Direct sunlight measurements (7895 lux, SPR 1.47) represent intermittent outdoor exposure conditions (2-4 hours daily). However, **natural shade** provides a more appropriate reference baseline for prolonged indoor exposure scenarios, as it represents the light environment humans would experience during extended daytime activities in shaded outdoor locations-the evolutionary context for 8-10 hour daily light exposure.
 
 #### 3.9.1 Natural Shade Spectral Characteristics
 
@@ -627,7 +627,7 @@ We characterized three natural shade conditions representing typical prolonged o
 | Sky only (diffuse) | Natural | 591 | 1.24 | 14.59% | 15.07% | 0.471 | 0.998 |
 | Morning ambient light | Natural | 1299 | 2.91 | 9.34% | 22.82% | 0.662 | 3.215 |
 | Outdoor at vintage window (shade) | Natural | 2265 | 1.08 | 14.95% | 13.15% | 1.734 | 3.234 |
-| **Mean Natural Shade** | — | **1385** | **1.74** | **12.96%** | **17.01%** | **0.956** | **2.482** |
+| **Mean Natural Shade** | - | **1385** | **1.74** | **12.96%** | **17.01%** | **0.956** | **2.482** |
 | **Indoor Artificial Light** |
 | Normlite LED (best cool) | Artificial | 317 | 1.47 | 12.86% | 4.58% | 0.150 | 0.345 |
 | Ledvance warm LED | Artificial | 278 | 1.98 | 10.73% | 5.27% | 0.109 | 0.352 |
@@ -643,7 +643,7 @@ All tested LED sources exhibited **catastrophic NIR deficits** compared to natur
 - **Ledvance warm** (best overall LED): NIR 5.27% vs 17.0% natural → **69% NIR deficit**, SPR 1.98 vs 1.74 → 14% SPR surplus
 - **Sunwave** (typical cool LED): NIR 3.64% vs 17.0% natural → **79% NIR deficit**, SPR 0.92 vs 1.74 → 47% SPR deficit
 
-**Key insight:** Even LEDs with acceptable SPR values (≥1.5) exhibit severe NIR content deficiency. Ledvance warm LED achieves SPR 1.98 (exceeding natural shade SPR 1.74) but contains only 5.27% NIR compared to 17% in natural shade. This suggests that **SPR alone may be insufficient** to characterize spectral safety—absolute NIR percentage appears equally critical.
+**Key insight:** Even LEDs with acceptable SPR values (≥1.5) exhibit severe NIR content deficiency. Ledvance warm LED achieves SPR 1.98 (exceeding natural shade SPR 1.74) but contains only 5.27% NIR compared to 17% in natural shade. This suggests that **SPR alone may be insufficient** to characterize spectral safety-absolute NIR percentage appears equally critical.
 
 #### 3.9.3 Mechanistic Interpretation: NIR Threshold Hypothesis
 
@@ -707,9 +707,9 @@ This study introduces the Spectral Protection Ratio (SPR) as a novel metric quan
 
 1. **Natural twilight exhibits SPR range of 1.58-2.62** (mean 2.21 ± 0.38) across diverse conditions (sunset through late twilight, illuminance 8-205 lux), establishing an evolutionarily-tolerated baseline for low-illuminance conditions
 2. **Natural shade establishes prolonged-exposure baseline: SPR 1.74, NIR 17.0%** (mean across diffuse skylight, ambient morning light, outdoor shade), representing the appropriate reference for indoor artificial lighting environments where 8-10 hour daily exposure is typical
-3. **Catastrophic NIR deficit in ALL LED sources** (69-79% below natural shade baseline), with even best-performing warm LED (Ledvance, SPR 1.98) containing only 5.27% NIR versus 17% in natural shade—suggesting dual-criteria safety standards required
+3. **Catastrophic NIR deficit in ALL LED sources** (69-79% below natural shade baseline), with even best-performing warm LED (Ledvance, SPR 1.98) containing only 5.27% NIR versus 17% in natural shade-suggesting dual-criteria safety standards required
 4. **Dimmed incandescent sources exhibit extraordinary SPR (112.74)**, representing the optimal spectral composition achievable through thermal blackbody emission, with 54% NIR content and minimal blue (0.75%)
-5. **High-CCT LED sources exhibit critically low SPR (<1.0)**, with blue irradiance exceeding protective wavelengths—an inverted spectral composition relative to natural light
+5. **High-CCT LED sources exhibit critically low SPR (<1.0)**, with blue irradiance exceeding protective wavelengths-an inverted spectral composition relative to natural light
 6. **All cool white LEDs scored HIGH RISK or CRITICAL** (SPR 0.33-1.47), with none achieving natural shade safety threshold (SPR 1.7, NIR 15%), demonstrating systematic photobiological risk in commercial daylight-CCT products
 7. **Violet content varies independently from SPR** (0.15-2.75%), with "sunlike" marketed LEDs exhibiting 10.7× more violet than natural sunlight, representing an additional risk factor not captured by SPR alone
 8. **Modern Low-E windows create biological energy deficiency** by blocking 61% of NIR while blocking only 53% of visible light, reducing protection-to-oxidation ratio from 1.33 to 1.29 compared to outdoor sun
@@ -717,7 +717,7 @@ This study introduces the Spectral Protection Ratio (SPR) as a novel metric quan
 10. **Wavelength-weighted SPR analysis reveals spectral quality differences**: natural light shows +10-15% improvement with weighting (optimal red/NIR), dimmed incandescent shows -8% (near-optimal), while LEDs show -15-22% decline (suboptimal wavelengths)
 11. **Strong correlation between SPR and R9** (r=0.94) enables practical bulb selection guidance for LED sources
 12. **Medium-CCT LEDs at higher illuminance can achieve circadian efficacy comparable to high-CCT sources** while maintaining natural-like spectral safety
-13. **Blue light photochemistry disrupts one-carbon metabolism**: Mechanistically plausible pathway linking LED blue peaks (440-470 nm) to riboflavin photoexcitation, ROS-mediated 5-MTHF photodegradation, B12 oxidative inactivation, and methyl trap—with MTHFR polymorphisms potentially representing evolutionary UV photoprotection that becomes maladaptive in blue-enriched, NIR-deficient LED environments
+13. **Blue light photochemistry disrupts one-carbon metabolism**: Mechanistically plausible pathway linking LED blue peaks (440-470 nm) to riboflavin photoexcitation, ROS-mediated 5-MTHF photodegradation, B12 oxidative inactivation, and methyl trap-with MTHFR polymorphisms potentially representing evolutionary UV photoprotection that becomes maladaptive in blue-enriched, NIR-deficient LED environments
 
 ### 4.2 Biological Plausibility
 
@@ -750,7 +750,7 @@ Short-wavelength blue light (430-470 nm, peak damage 440-445 nm) induces photoch
 The action spectrum for these processes peaks at 440-445 nm [3,25], precisely where high-CCT LEDs emit maximally (451-453 nm in our measurements). The proximity of LED peaks to damage maxima explains the negative weighted SPR effect in these sources.
 
 #### 4.2.3 Evolutionary Perspective
-Human photoreceptors evolved under ~500 million years of solar illumination, which maintains consistent red/NIR content due to the sun's ~5800 K blackbody emission spectrum attenuated by atmospheric scattering [27-29]. Our twilight measurements exhibited SPR range of 1.58-2.62 (mean 2.21 ± 0.38) across diverse conditions—despite dramatic illuminance variations (8-205 lux) and high apparent CCT (10,954-20,148 K) due to Rayleigh scattering during twilight. This suggests natural light maintains approximately 2:1 ratio of protective-to-damaging wavelengths even in low-illuminance scenarios. Light sources with SPR <1.0 (inverted spectra with more blue than protective wavelengths) represent environmental novelty with unknown long-term consequences.
+Human photoreceptors evolved under ~500 million years of solar illumination, which maintains consistent red/NIR content due to the sun's ~5800 K blackbody emission spectrum attenuated by atmospheric scattering [27-29]. Our twilight measurements exhibited SPR range of 1.58-2.62 (mean 2.21 ± 0.38) across diverse conditions-despite dramatic illuminance variations (8-205 lux) and high apparent CCT (10,954-20,148 K) due to Rayleigh scattering during twilight. This suggests natural light maintains approximately 2:1 ratio of protective-to-damaging wavelengths even in low-illuminance scenarios. Light sources with SPR <1.0 (inverted spectra with more blue than protective wavelengths) represent environmental novelty with unknown long-term consequences.
 
 ### 4.3 Oxidative Stress vs. Antioxidant Protection Balance
 
@@ -784,7 +784,7 @@ Modern double-pane Low-E windows reduced the protection-to-oxidation ratio to **
 
 This represents a **3% reduction in protective balance** (1.33 → 1.29) because Low-E coatings preferentially block NIR (38.7% transmission) compared to visible/blue wavelengths (41-47% transmission). The selective NIR attenuation creates a subtle but measurable shift toward oxidative imbalance.
 
-**Critical insight:** Modern windows do not simply reduce light intensity proportionally—they **distort spectral composition** by blocking protective wavelengths more than damaging wavelengths. Occupants behind modern windows receive:
+**Critical insight:** Modern windows do not simply reduce light intensity proportionally-they **distort spectral composition** by blocking protective wavelengths more than damaging wavelengths. Occupants behind modern windows receive:
 - 57% less oxidative stress (6.06 → 2.48 W/m²)
 - **61% less photoprotection** (8.09 → 3.27 W/m²)
 - Net effect: 3% worse protection-to-oxidation balance
@@ -814,7 +814,7 @@ High-CCT LED sources exhibited **inverted protection-to-oxidation ratios** <1.0,
 | sunwave LED | 0.44 | 1.07 | **0.41** | 59% oxidative excess |
 | eyeover LED (worst) | 0.03 | 0.14 | **0.21** | 79% oxidative excess |
 
-These inverted ratios represent fundamentally unnatural spectral compositions where blue-induced oxidative stress exceeds red/NIR-mediated antioxidant protection. Prolonged exposure (8-10 hours daily) to ratios <1.0 may result in cumulative mitochondrial stress, oxidative damage accumulation, and impaired retinal tissue repair mechanisms—despite meeting IEC 62471 photobiological safety standards.
+These inverted ratios represent fundamentally unnatural spectral compositions where blue-induced oxidative stress exceeds red/NIR-mediated antioxidant protection. Prolonged exposure (8-10 hours daily) to ratios <1.0 may result in cumulative mitochondrial stress, oxidative damage accumulation, and impaired retinal tissue repair mechanisms-despite meeting IEC 62471 photobiological safety standards.
 
 **Clinical relevance:** The protection-to-oxidation ratio provides a mechanistic explanation for epidemiological associations between LED lighting exposure and subjective visual discomfort, asthenopia, and potential AMD risk acceleration in susceptible populations.
 
@@ -844,7 +844,7 @@ These thresholds apply to photopic illuminance levels (>100 lux) typical of indo
 
 #### 4.3.2 Integration with Melanopic Standards
 
-SPR should complement, not replace, melanopic EDI metrics. The "wizwhite strategy" demonstrated in our results—achieving target circadian stimulus through increased illuminance of medium-CCT sources with safe SPR—suggests an integrated approach:
+SPR should complement, not replace, melanopic EDI metrics. The "wizwhite strategy" demonstrated in our results-achieving target circadian stimulus through increased illuminance of medium-CCT sources with safe SPR-suggests an integrated approach:
 
 **Optimization criterion:**
 ```
@@ -872,7 +872,7 @@ Our window spectral filtering analysis reveals a fundamental conflict between th
 
 #### 4.5.1 The Two Types of Energy: Thermal vs. Biological
 
-Modern building codes prioritize **thermal energy efficiency**—minimizing heat transfer through the building envelope to reduce HVAC costs. Low-E window coatings achieve this by reflecting infrared radiation (>700 nm), which constitutes the primary wavelength range for radiative heat transfer.
+Modern building codes prioritize **thermal energy efficiency**-minimizing heat transfer through the building envelope to reduce HVAC costs. Low-E window coatings achieve this by reflecting infrared radiation (>700 nm), which constitutes the primary wavelength range for radiative heat transfer.
 
 However, this same infrared range (700-850 nm NIR) provides **biological energy** to retinal mitochondria through cytochrome c oxidase photon absorption. Our measurements demonstrate that modern Low-E windows:
 
@@ -893,7 +893,7 @@ Consider a typical office worker spending 8-10 hours daily behind modern Low-E w
 
 **Daily deficit:** 94,100 J/m²/day (61% reduction)
 
-For comparison, clinical photobiomodulation protocols for retinal protection typically deliver 100-200 J/m² per treatment session and demonstrate therapeutic effects. The cumulative NIR deficit from modern windows equals **470-940 therapeutic sessions lost per day**—a staggering biological energy deficiency affecting cellular ATP production, antioxidant defense capacity, and mitochondrial stress resilience.
+For comparison, clinical photobiomodulation protocols for retinal protection typically deliver 100-200 J/m² per treatment session and demonstrate therapeutic effects. The cumulative NIR deficit from modern windows equals **470-940 therapeutic sessions lost per day**-a staggering biological energy deficiency affecting cellular ATP production, antioxidant defense capacity, and mitochondrial stress resilience.
 
 #### 4.5.3 Epidemiological Implications
 
@@ -1004,7 +1004,7 @@ Investigation of whether SPR requirements vary by circadian phase (e.g., morning
 
 ### 4.8 Systemic Health Implications Beyond Retinal Photoreception
 
-While this study focuses on retinal photobiology and the SPR metric for assessing spectral safety, the observed 70-80% NIR deficit in LED lighting compared to natural shade (17% vs 3-5%) has potential systemic health implications warranting discussion. NIR wavelengths (700-1200 nm) penetrate skin and subcutaneous tissues, activating cytochrome c oxidase in cells throughout the body—not exclusively in retinal tissues [47,48].
+While this study focuses on retinal photobiology and the SPR metric for assessing spectral safety, the observed 70-80% NIR deficit in LED lighting compared to natural shade (17% vs 3-5%) has potential systemic health implications warranting discussion. NIR wavelengths (700-1200 nm) penetrate skin and subcutaneous tissues, activating cytochrome c oxidase in cells throughout the body-not exclusively in retinal tissues [47,48].
 
 #### 4.8.1 Mitochondrial Function and Whole-Body Energy Metabolism
 
@@ -1024,9 +1024,9 @@ While UVB drives vitamin D3 synthesis, NIR (700-1000 nm) enhances vitamin D bioa
 
 Additionally, NIR photobiomodulation demonstrates anti-inflammatory effects through modulation of NF-κB signaling [55,56]. Chronic absence of NIR exposure may result in baseline pro-inflammatory state.
 
-**Vitamin D-Melatonin Balance and Autoimmune Disease:** Recent evidence reveals a critical interaction between light exposure, vitamin D, and melatonin in autoimmune conditions. Studies in multiple sclerosis (MS) patients demonstrate that vitamin D supplementation influences melatonin status, and conversely, that melatonin levels affect disease progression [61,62]. The latitudinal gradient of MS prevalence—increasing from equator to poles—correlates with both decreased sunlight exposure (reducing vitamin D synthesis) and increased darkness exposure (elevating melatonin production) [62].
+**Vitamin D-Melatonin Balance and Autoimmune Disease:** Recent evidence reveals a critical interaction between light exposure, vitamin D, and melatonin in autoimmune conditions. Studies in multiple sclerosis (MS) patients demonstrate that vitamin D supplementation influences melatonin status, and conversely, that melatonin levels affect disease progression [61,62]. The latitudinal gradient of MS prevalence-increasing from equator to poles-correlates with both decreased sunlight exposure (reducing vitamin D synthesis) and increased darkness exposure (elevating melatonin production) [62].
 
-Paradoxically, while melatonin possesses neuroprotective properties, **prolonged darkness in MS models increased melatonin levels but exacerbated inflammation and demyelination**—effects reversed by light therapy [62]. This suggests that the therapeutic benefit requires balanced light-dark cycles rather than simply maximizing either vitamin D or melatonin independently. The authors conclude that modulating these hormones through "sunlight or darkness, not supplements" achieves optimal therapeutic balance [62].
+Paradoxically, while melatonin possesses neuroprotective properties, **prolonged darkness in MS models increased melatonin levels but exacerbated inflammation and demyelination**-effects reversed by light therapy [62]. This suggests that the therapeutic benefit requires balanced light-dark cycles rather than simply maximizing either vitamin D or melatonin independently. The authors conclude that modulating these hormones through "sunlight or darkness, not supplements" achieves optimal therapeutic balance [62].
 
 **Implications for SPR framework:** This vitamin D-melatonin interaction reinforces that spectral quality matters beyond retinal photoreception. The combination of:
 - Daytime LED lighting with severe NIR deficit (70-80% below natural)
@@ -1034,7 +1034,7 @@ Paradoxically, while melatonin possesses neuroprotective properties, **prolonged
 - Inadequate UVB exposure indoors
 - Potential circadian disruption from blue-enriched spectra
 
-...may create a dual deficiency state affecting both vitamin D synthesis (inadequate daytime full-spectrum exposure) and melatonin regulation (disrupted circadian photoentrainment). The MS literature suggests this imbalance—not merely vitamin D deficiency alone—may contribute to immune dysregulation and chronic inflammatory states in indoor workers.
+...may create a dual deficiency state affecting both vitamin D synthesis (inadequate daytime full-spectrum exposure) and melatonin regulation (disrupted circadian photoentrainment). The MS literature suggests this imbalance-not merely vitamin D deficiency alone-may contribute to immune dysregulation and chronic inflammatory states in indoor workers.
 
 **Speculative hypothesis:** "Modern Indoor Lighting Syndrome" may involve not just NIR deficit but disrupted vitamin D-melatonin homeostasis due to simultaneous daytime spectral deficiencies and evening blue light excess, creating a photoendocrine dysregulation state absent in natural or vintage indoor lighting environments.
 
@@ -1074,7 +1074,7 @@ These systemic health hypotheses are **highly speculative** and based on extrapo
 
 #### 4.8.8 One-Carbon Metabolism: Blue Light Photochemistry and the Methyl Trap
 
-A biochemically plausible—yet speculative—mechanism links blue light exposure to disruption of folate-vitamin B12 metabolism through photochemical processes. This hypothesis integrates established photochemistry with one-carbon metabolism dysregulation.
+A biochemically plausible-yet speculative-mechanism links blue light exposure to disruption of folate-vitamin B12 metabolism through photochemical processes. This hypothesis integrates established photochemistry with one-carbon metabolism dysregulation.
 
 **Mechanistic cascade:**
 
@@ -1105,7 +1105,7 @@ The blue light-induced methylation crisis operates through **two independent but
 
 **Synergistic "methylation crisis":**
 
-Recent evidence demonstrates that melatonin functions as a direct epigenetic regulator, modulating DNA methylation through effects on both DNMTs and TET proteins [80]. Critically, artificial light at night **suppresses melatonin AND causes global DNA hypomethylation** in tumor tissues—effects significantly diminished by melatonin administration [80]. Night shift workers exhibit differential methylation patterns in circadian genes (PER1, PER2, PER3) correlated with altered melatonin secretion [80].
+Recent evidence demonstrates that melatonin functions as a direct epigenetic regulator, modulating DNA methylation through effects on both DNMTs and TET proteins [80]. Critically, artificial light at night **suppresses melatonin AND causes global DNA hypomethylation** in tumor tissues-effects significantly diminished by melatonin administration [80]. Night shift workers exhibit differential methylation patterns in circadian genes (PER1, PER2, PER3) correlated with altered melatonin secretion [80].
 
 The proposed mechanism involves melatonin's regulation of α-ketoglutarate levels, a cofactor essential for TET-mediated active DNA demethylation [80]. This creates a metabolic link between circadian photoreception (melatonin synthesis), epigenetic regulation (DNA methylation), and the Krebs cycle (α-ketoglutarate production).
 
@@ -1122,7 +1122,7 @@ This dual-pathway disruption may explain why indoor workers report symptoms (fat
 
 **Critical clarification: Circadian amplitude and timing, not absolute melatonin levels:**
 
-The melatonin-methylation relationship is **circadian-dependent**, requiring rhythmic oscillation rather than simply elevated levels. The MS research paradox [62] demonstrates this: **prolonged darkness increased melatonin levels but worsened inflammation and demyelination**, reversed by light therapy. This reveals that inappropriately timed or arrhythmic melatonin—despite being high—produces pathological rather than protective effects.
+The melatonin-methylation relationship is **circadian-dependent**, requiring rhythmic oscillation rather than simply elevated levels. The MS research paradox [62] demonstrates this: **prolonged darkness increased melatonin levels but worsened inflammation and demyelination**, reversed by light therapy. This reveals that inappropriately timed or arrhythmic melatonin-despite being high-produces pathological rather than protective effects.
 
 **Proper DNA methylation requires:**
 1. **High-amplitude melatonin rhythm:** Strong nocturnal peak (>100 pg/mL) with daytime suppression (<10 pg/mL)
@@ -1148,16 +1148,16 @@ Even though melatonin upregulates DNMTs and enhances methylation capacity [80], 
 
 3. **Immune dysregulation:** Melatonin modulates immune function in circadian manner. Mistimed elevation → pro-inflammatory state despite melatonin's inherent anti-inflammatory properties [62]. The MS research showed this directly: high melatonin from prolonged darkness worsened autoimmune pathology.
 
-4. **Epigenetic mistiming:** DNA methylation patterns should oscillate circadianly—some genes methylated (silenced) during day, demethylated (active) at night, and vice versa. Flattened melatonin rhythm → loss of temporal gene regulation precision.
+4. **Epigenetic mistiming:** DNA methylation patterns should oscillate circadianly-some genes methylated (silenced) during day, demethylated (active) at night, and vice versa. Flattened melatonin rhythm → loss of temporal gene regulation precision.
 
 **Modern indoor lighting creates "worst of both worlds":**
 
 - **Insufficient daytime light** (200-500 lux LED vs. 1,000-10,000 lux natural) → inadequate melatonin suppression → elevated baseline (15-30 pg/mL)
 - **Evening blue light** (screens, cool LED) → inappropriate suppression during biological night when rising should occur
 - **Nighttime ALAN** → continued suppression, preventing proper nocturnal peak
-- **Result:** Neither proper daytime suppression NOR proper nighttime elevation—a flattened, arrhythmic pattern
+- **Result:** Neither proper daytime suppression NOR proper nighttime elevation-a flattened, arrhythmic pattern
 
-This explains the MS latitudinal paradox [62]: Northern populations have longer darkness (higher average melatonin) but worse MS outcomes. It's not low melatonin that's pathological—it's **disrupted melatonin rhythm from inadequate daytime light exposure combined with excessive evening/night artificial light**.
+This explains the MS latitudinal paradox [62]: Northern populations have longer darkness (higher average melatonin) but worse MS outcomes. It's not low melatonin that's pathological-it's **disrupted melatonin rhythm from inadequate daytime light exposure combined with excessive evening/night artificial light**.
 
 **Corrected clinical implications:**
 
@@ -1226,7 +1226,7 @@ LED lighting creates:
 8. Global DNA methylation levels correlate inversely with cumulative evening/nighttime LED exposure (blue wavelength dose-dependent).
 9. Differential methylation of circadian genes (PER1, PER2, PER3) distinguishes LED-exposed indoor workers from outdoor workers.
 10. Salivary melatonin amplitude (nocturnal peak ÷ daytime baseline) predicts TET2 expression and α-ketoglutarate concentrations better than absolute melatonin levels.
-11. **Bright daytime light intervention (≥1000 melanopic lux) restores melatonin amplitude** and improves methylation markers even without changing evening light exposure—demonstrating that inadequate daytime suppression is equally important as evening suppression.
+11. **Bright daytime light intervention (≥1000 melanopic lux) restores melatonin amplitude** and improves methylation markers even without changing evening light exposure-demonstrating that inadequate daytime suppression is equally important as evening suppression.
 12. Amber/red evening lighting (>590 nm, preserving melatonin rise) maintains normal DNMT activity despite daytime LED exposure.
 
 **Combined pathway (synergistic effects):**
@@ -1266,7 +1266,7 @@ This dual-pathway mechanism, if validated, would represent a novel framework lin
 
 ### 4.8.9 The Violet-Pump LED Paradox: Trading Riboflavin Damage for DNA Damage
 
-Recent premium LED technologies have adopted violet LED pumps (405-420 nm) instead of conventional blue pumps (450 nm) to achieve superior color rendering (CRI >95, R9 >90) while ostensibly "reducing blue light hazard." However, comprehensive analysis of damage mechanisms reveals this approach may trade reversible metabolic stress for irreversible mutagenic burden—a potentially unfavorable exchange with long-term health implications.
+Recent premium LED technologies have adopted violet LED pumps (405-420 nm) instead of conventional blue pumps (450 nm) to achieve superior color rendering (CRI >95, R9 >90) while ostensibly "reducing blue light hazard." However, comprehensive analysis of damage mechanisms reveals this approach may trade reversible metabolic stress for irreversible mutagenic burden-a potentially unfavorable exchange with long-term health implications.
 
 #### 4.8.9.1 Violet vs Blue: Two Distinct Damage Mechanisms
 
@@ -1349,7 +1349,7 @@ Violet (405 nm) lies only 5 nm above the UV-A boundary (400 nm), occupying a spe
 Equivalent UV-A damage: ~6,000-8,000 hours (30-40% efficiency)
 Expected effects: Accelerated photoaging, uneven pigmentation, increased carcinogenic burden
 
-**Critical difference from UV-A:** Violet provides **zero vitamin D synthesis** (requires UV-B 290-320 nm), **no nitric oxide release** (UV-A benefit), and **no endorphin production**—pure harm without compensatory benefits.
+**Critical difference from UV-A:** Violet provides **zero vitamin D synthesis** (requires UV-B 290-320 nm), **no nitric oxide release** (UV-A benefit), and **no endorphin production**-pure harm without compensatory benefits.
 
 #### 4.8.9.5 The Natural UV-A:NIR Protection Ratio
 
@@ -1362,7 +1362,7 @@ Natural sunlight exhibits a critical protective balance absent in artificial sou
 
 **UV-A : NIR ratio = 1:8.5**
 
-**This 8.5-fold NIR excess is not coincidental**—it represents the co-evolved photoprotection mechanism:
+**This 8.5-fold NIR excess is not coincidental**-it represents the co-evolved photoprotection mechanism:
 
 **NIR (especially 800-1000 nm) activates cytochrome c oxidase →**
 - Increased ATP production (+300% above baseline)
@@ -1404,7 +1404,7 @@ Natural sunlight exhibits a critical protective balance absent in artificial sou
 - Actual NIR: ~3 W/m²
 - **Deficit: 127 W/m² (-98% shortfall)**
 
-**Practical implication:** Users of violet-pump LEDs would need dedicated NIR panels delivering ~400-500 lux NIR equivalent to restore natural photoprotection—an impractical and costly supplementation strategy.
+**Practical implication:** Users of violet-pump LEDs would need dedicated NIR panels delivering ~400-500 lux NIR equivalent to restore natural photoprotection-an impractical and costly supplementation strategy.
 
 #### 4.8.9.6 Reversible vs Irreversible Damage: Risk-Benefit Analysis
 
@@ -1533,7 +1533,7 @@ Violet-pump LED technology represents a **lateral trade-off** rather than a net 
 
 **Incandescent and halogen sources remain the only artificial light sources that maintain natural-like spectral balance** (minimal <420 nm content, high NIR 20-25%, SPR >5.0, damage:protection ratio <0.2) without requiring supplementation or protective equipment.
 
-**The spectral evolution of artificial lighting—incandescent → blue-pump LED → violet-pump LED—has not been a progression toward safety, but rather a series of compromises trading one harm for another while maintaining energy efficiency as the dominant design criterion.** True photobiological safety requires integration of SPR, NIR content, violet limits, and damage-to-protection ratios into mandatory standards, with evolutionary natural light serving as the non-negotiable reference.
+**The spectral evolution of artificial lighting-incandescent → blue-pump LED → violet-pump LED-has not been a progression toward safety, but rather a series of compromises trading one harm for another while maintaining energy efficiency as the dominant design criterion.** True photobiological safety requires integration of SPR, NIR content, violet limits, and damage-to-protection ratios into mandatory standards, with evolutionary natural light serving as the non-negotiable reference.
 
 ### 4.9 Evolutionary Architecture and Hybrid Lighting Solutions
 
@@ -1541,11 +1541,11 @@ Violet-pump LED technology represents a **lateral trade-off** rather than a net 
 
 Standard spectroradiometric measurements (380-780 nm range) used in this study capture only "shallow NIR" (700-780 nm) while missing the critical "deep NIR" (780-1200 nm) region containing the optimal cytochrome c oxidase activation peak at 810 nm [76]. This measurement limitation has profound implications for understanding the true magnitude of NIR deficit in artificial lighting.
 
-**Weighted SPR analysis** (Section 3.3) revealed that measured NIR content in all sources—including LEDs and natural light—consists almost entirely of 700-780 nm wavelengths, with 0% contribution from the 800-850 nm band. This is because:
+**Weighted SPR analysis** (Section 3.3) revealed that measured NIR content in all sources-including LEDs and natural light-consists almost entirely of 700-780 nm wavelengths, with 0% contribution from the 800-850 nm band. This is because:
 1. LED phosphor emission cuts off sharply around 750 nm due to material physics constraints
 2. Natural sunlight contains substantial 780-1200 nm deep NIR (approximately 20-30% of total irradiance) that remains unmeasured by standard visible-range spectrometers
 
-Consequently, when our measurements show "23% NIR" in hybrid LED-near-window conditions, this represents only shallow NIR. The true total NIR content (including deep NIR from daylight) would be approximately 35-45% when overhead natural light is present—matching the ancestral lighting environment humans evolved under.
+Consequently, when our measurements show "23% NIR" in hybrid LED-near-window conditions, this represents only shallow NIR. The true total NIR content (including deep NIR from daylight) would be approximately 35-45% when overhead natural light is present-matching the ancestral lighting environment humans evolved under.
 
 **LED deep NIR deficit:** Pure LED sources deliver 0% deep NIR (780-1200 nm) regardless of warm CCT or high R9 values. This represents a fundamental photobiological limitation of solid-state lighting technology not addressable through phosphor optimization alone. The clinical significance of chronic deep NIR deficiency (containing the 810 nm CCO resonance peak) may far exceed that of shallow NIR deficit.
 
@@ -1559,9 +1559,9 @@ Analysis of melanopic-to-photopic (M/P) ratios across natural lighting condition
 - Natural shade (diffuse skylight): M/P 0.66, SPR 1.74, NIR 17.0%
 
 **LED M/P matching strategy:**
-- Warm LED (4000-4500K, high R9): M/P 0.49-0.51, matches direct sunlight profile—provides subjectively "warm" comfortable light with exceptional safety (SPR 4.3-5.8 when near window)
-- Neutral LED (4800-5200K, high R9): M/P 0.54-0.57, matches morning ambient profile—provides subjectively "white" productive feeling with moderate safety (SPR 2.9-3.5 when near window)
-- Cool LED (>6000K): M/P 0.64-0.68, matches shade profile but through dangerous mechanism (blue spike without NIR), SPR <1.5—physiologically unsafe despite high circadian efficacy
+- Warm LED (4000-4500K, high R9): M/P 0.49-0.51, matches direct sunlight profile-provides subjectively "warm" comfortable light with exceptional safety (SPR 4.3-5.8 when near window)
+- Neutral LED (4800-5200K, high R9): M/P 0.54-0.57, matches morning ambient profile-provides subjectively "white" productive feeling with moderate safety (SPR 2.9-3.5 when near window)
+- Cool LED (>6000K): M/P 0.64-0.68, matches shade profile but through dangerous mechanism (blue spike without NIR), SPR <1.5-physiologically unsafe despite high circadian efficacy
 
 **Critical insight:** Similar M/P ratios can be achieved through safe (balanced spectrum with adequate NIR) or dangerous (blue-enriched without protective wavelengths) mechanisms. Cool LEDs achieve shade-like M/P through spectral pathology rather than spectral fidelity. For prolonged indoor exposure, warm LEDs (M/P 0.49-0.51) near windows provide optimal balance: subjectively adequate "whiteness" through high total illuminance rather than excessive CCT, while maintaining SPR >5.0 and total NIR >20% (with daylight contribution).
 
@@ -1574,7 +1574,7 @@ The ancient Roman *domus* residential architecture, prevalent from approximately
 **Photobiological characteristics of atrium lighting:**
 - **Spectral composition:** Overhead diffuse daylight from compluvium delivers full-spectrum illumination including deep NIR (780-1200 nm) absent in LED sources
 - **Estimated total NIR content:** 35-45% (combining shallow 700-780 nm + deep 780-1200 nm), matching outdoor shade conditions
-- **SPR range:** Approximately 2.0-4.0 depending on time of day and sky conditions—within natural baseline established in Section 3.9
+- **SPR range:** Approximately 2.0-4.0 depending on time of day and sky conditions-within natural baseline established in Section 3.9
 - **M/P ratio:** 0.60-0.70 (shade-dominant with direct sun contribution), providing adequate circadian entrainment
 - **UV exposure:** Moderate UVA/UVB for vitamin D synthesis without excessive outdoor exposure
 
@@ -1632,7 +1632,7 @@ Based on measurement of LED performance near open windows and the Roman atrium p
 3. Development and testing of spectrally-selective glazing (NIR-transparent, heat-blocking) technologies
 4. Economic analysis balancing thermal energy costs against productivity gains and healthcare savings
 
-This approach represents a return to evolutionary wisdom—overhead natural light as the primary illumination source, with artificial lighting as supplement rather than replacement—while leveraging modern LED technology for task-specific enhancement and nighttime use.
+This approach represents a return to evolutionary wisdom-overhead natural light as the primary illumination source, with artificial lighting as supplement rather than replacement-while leveraging modern LED technology for task-specific enhancement and nighttime use.
 
 ### 4.10 Clinical and Public Health Implications
 
@@ -1650,23 +1650,23 @@ The Spectral Protection Ratio (SPR) provides a physiologically-grounded, practic
 
 **Cool white LED systematic risk:** Comprehensive assessment of seven commercially-available cool white (>5000K) LED products revealed that ALL scored HIGH RISK (SPR 1.0-1.5) or CRITICAL (SPR <1.0), with none achieving natural light safety threshold (SPR >1.5). This demonstrates a fundamental photobiological deficiency in current daylight-CCT LED technology, where blue content systematically exceeds protective red/NIR content. Weighted SPR analysis revealed 20-43% overestimation by simple SPR calculations, indicating suboptimal wavelength positioning near peak damage (445 nm) rather than peak protection (670 nm, 810 nm).
 
-**Natural shade establishes dual-criteria baseline:** Analysis of natural shade conditions (diffuse skylight, morning ambient light, outdoor shade) revealed mean SPR 1.74 with NIR content 17.0%, establishing the appropriate reference for prolonged indoor exposure (8-10 hours daily). ALL tested LED sources exhibited catastrophic NIR deficits (69-79% below natural shade), with even the best warm LED (Ledvance, SPR 1.98) containing only 5.27% NIR. This critical finding suggests SPR alone is insufficient—absolute NIR percentage appears equally important for mitochondrial photoprotection during prolonged exposure. We propose dual-criteria safety standards: SPR ≥1.7 AND NIR ≥15% for indoor artificial lighting. No tested LED met both criteria, suggesting widespread NIR deficiency in current solid-state lighting technology may contribute to visual discomfort and asthenopia despite meeting conventional photometric standards.
+**Natural shade establishes dual-criteria baseline:** Analysis of natural shade conditions (diffuse skylight, morning ambient light, outdoor shade) revealed mean SPR 1.74 with NIR content 17.0%, establishing the appropriate reference for prolonged indoor exposure (8-10 hours daily). ALL tested LED sources exhibited catastrophic NIR deficits (69-79% below natural shade), with even the best warm LED (Ledvance, SPR 1.98) containing only 5.27% NIR. This critical finding suggests SPR alone is insufficient-absolute NIR percentage appears equally important for mitochondrial photoprotection during prolonged exposure. We propose dual-criteria safety standards: SPR ≥1.7 AND NIR ≥15% for indoor artificial lighting. No tested LED met both criteria, suggesting widespread NIR deficiency in current solid-state lighting technology may contribute to visual discomfort and asthenopia despite meeting conventional photometric standards.
 
 **Violet content as independent risk factor:** Short-wavelength violet light (380-420 nm) varied 18-fold across LED sources (0.15-2.75%), independent of SPR values. LEDs marketed as "sunlike" exhibited 10.7× more violet than natural direct sunlight (2.14% vs 0.19%), representing an unrecognized photochemical risk not captured by SPR or current photobiological standards. Optimal LED specification should require both SPR >2.5 and violet content <0.5% to approximate natural light spectral composition.
 
 **Modern windows create biological energy deficiency:** Modern double-pane Low-E windows, while achieving 30-40% thermal energy savings (€100-150/year), create a fundamental biological energy deficit by blocking 61% of protective NIR while blocking only 53% of visible light. This selective wavelength filtering reduces the protection-to-oxidation ratio from 1.33 (outdoor) to 1.29 (indoor), representing a 3% shift toward oxidative imbalance affecting billions of building occupants. Vintage single-pane windows preserve 81.6% NIR transmission with minimal spectral distortion, delivering 2.1× more NIR than modern windows at equivalent outdoor illuminance. This represents a previously unrecognized trade-off in "energy-efficient" building design: optimization for thermal energy at the expense of biological energy.
 
-**Architectural and public health implications:** The widespread adoption of Low-E windows (>80% of new construction since 2000) creates cumulative NIR deficits of 94,100 J/m²/day for typical office workers—equivalent to 470-940 lost photobiomodulation treatment sessions daily. If modern window technology increases AMD risk by even 1-2% over 30-year occupancy, healthcare costs would exceed thermal energy savings at population scale. Building design codes should incorporate biological energy metrics alongside thermal efficiency, with risk-stratified window selection for schools, healthcare facilities, and prolonged-occupancy spaces.
+**Architectural and public health implications:** The widespread adoption of Low-E windows (>80% of new construction since 2000) creates cumulative NIR deficits of 94,100 J/m²/day for typical office workers-equivalent to 470-940 lost photobiomodulation treatment sessions daily. If modern window technology increases AMD risk by even 1-2% over 30-year occupancy, healthcare costs would exceed thermal energy savings at population scale. Building design codes should incorporate biological energy metrics alongside thermal efficiency, with risk-stratified window selection for schools, healthcare facilities, and prolonged-occupancy spaces.
 
 Integration of SPR into lighting standards alongside existing melanopic and photobiological safety metrics would enable evidence-based design balancing circadian efficacy with spectral safety. The strong correlation between SPR and CIE R9 test color (r=0.94) for LED sources provides immediate practical guidance: LED sources with CRI >90, R9 >80, and CCT <5000K typically achieve safe SPR levels (>2.5) suitable for extended daily exposure. For vulnerable populations or ultra-high-exposure scenarios, traditional incandescent technology retains substantial photobiological advantages despite lower energy efficiency.
 
-**Systemic health implications (speculative):** The 70-80% NIR deficit in LED lighting may extend beyond retinal effects to systemic mitochondrial dysfunction, given that cytochrome c oxidase is present in all nucleated cells. We propose "Modern Indoor Syndrome"—the combination of LED NIR deficit, Low-E window blocking, blue light excess, and vitamin D deficiency—may contribute to chronic fatigue, cognitive impairment, immune dysregulation, and metabolic dysfunction in indoor workers. A novel biochemical pathway links blue light photochemistry to one-carbon metabolism disruption: blue light (440-470 nm) excites riboflavin, generating ROS that photodegrade 5-methyltetrahydrofolate (direct experimental evidence [Steindal et al. 2008]) while oxidatively inactivating vitamin B12 in methionine synthase, creating a "methyl trap" that blocks DNA synthesis and depletes methylation capacity. MTHFR C677T polymorphism—geographically correlated with UV radiation exposure—may represent evolutionary photoprotection (reduced 5-MTHF production = less photolabile substrate) that becomes maladaptive under LED lighting (blue-enriched without NIR counterbalance), potentially explaining gene-environment interactions in LED-induced fatigue and cognitive symptoms. While highly speculative and requiring validation, even modest health decrements (5-10% increased fatigue, 2-3% reduced cognitive performance) would have enormous population-scale economic impact. Testable predictions include: NIR supplementation (810-850 nm, 1-2 W/m²) should improve subjective fatigue, cognitive performance, cortisol rhythms, inflammatory biomarkers, and one-carbon metabolism markers (homocysteine, SAM:SAH ratio) in controlled trials.
+**Systemic health implications (speculative):** The 70-80% NIR deficit in LED lighting may extend beyond retinal effects to systemic mitochondrial dysfunction, given that cytochrome c oxidase is present in all nucleated cells. We propose "Modern Indoor Syndrome"-the combination of LED NIR deficit, Low-E window blocking, blue light excess, and vitamin D deficiency-may contribute to chronic fatigue, cognitive impairment, immune dysregulation, and metabolic dysfunction in indoor workers. A novel biochemical pathway links blue light photochemistry to one-carbon metabolism disruption: blue light (440-470 nm) excites riboflavin, generating ROS that photodegrade 5-methyltetrahydrofolate (direct experimental evidence [Steindal et al. 2008]) while oxidatively inactivating vitamin B12 in methionine synthase, creating a "methyl trap" that blocks DNA synthesis and depletes methylation capacity. MTHFR C677T polymorphism-geographically correlated with UV radiation exposure-may represent evolutionary photoprotection (reduced 5-MTHF production = less photolabile substrate) that becomes maladaptive under LED lighting (blue-enriched without NIR counterbalance), potentially explaining gene-environment interactions in LED-induced fatigue and cognitive symptoms. While highly speculative and requiring validation, even modest health decrements (5-10% increased fatigue, 2-3% reduced cognitive performance) would have enormous population-scale economic impact. Testable predictions include: NIR supplementation (810-850 nm, 1-2 W/m²) should improve subjective fatigue, cognitive performance, cortisol rhythms, inflammatory biomarkers, and one-carbon metabolism markers (homocysteine, SAM:SAH ratio) in controlled trials.
 
-**Deep NIR deficiency and measurement limitations:** Standard visible-range spectroradiometry (380-780 nm) captures only shallow NIR (700-780 nm), missing the critical deep NIR band (780-1200 nm) containing the optimal 810 nm cytochrome c oxidase activation peak. Consequently, measured "NIR deficits" in LED sources underestimate the true photobiological gap: LEDs deliver 0% deep NIR regardless of phosphor optimization, while natural daylight provides 20-30% deep NIR that remains unmeasured. Hybrid LED-near-window measurements achieving 23% measured NIR (shallow) likely receive an additional 15-20% unmeasured deep NIR from overhead daylight, yielding total NIR content of 35-45%—matching the ancestral evolutionary lighting environment. This fundamental limitation of solid-state lighting technology cannot be addressed through phosphor engineering alone.
+**Deep NIR deficiency and measurement limitations:** Standard visible-range spectroradiometry (380-780 nm) captures only shallow NIR (700-780 nm), missing the critical deep NIR band (780-1200 nm) containing the optimal 810 nm cytochrome c oxidase activation peak. Consequently, measured "NIR deficits" in LED sources underestimate the true photobiological gap: LEDs deliver 0% deep NIR regardless of phosphor optimization, while natural daylight provides 20-30% deep NIR that remains unmeasured. Hybrid LED-near-window measurements achieving 23% measured NIR (shallow) likely receive an additional 15-20% unmeasured deep NIR from overhead daylight, yielding total NIR content of 35-45%-matching the ancestral evolutionary lighting environment. This fundamental limitation of solid-state lighting technology cannot be addressed through phosphor engineering alone.
 
-**Evolutionary architecture and hybrid lighting solutions:** Analysis of Roman domus architecture (100 BCE - 400 CE) reveals that central atrium design with overhead compluvium aperture provided full-spectrum daylight including deep NIR, delivering estimated SPR 2.0-4.0 and total NIR 35-45%—photobiologically superior to modern LED-lit buildings (SPR 0.8-1.8, total NIR 1-5%). This represents an existence proof that prolonged indoor occupation need not require NIR deficiency if architectural design prioritizes overhead natural light. We propose a hybrid strategy combining overhead skylights or clerestory windows (1-2 m² per 10 m² floor area) with warm LED task lighting (4000-4500K, CRI >97, R9 >92), predicted to deliver total NIR 25-40%, SPR 3.5-5.5, and 600-900 melanopic lux—balancing circadian efficacy, spectral safety, and mitochondrial energy delivery. Melanopic-to-photopic ratio matching reveals warm LEDs (M/P 0.49-0.51) approximate direct sunlight profiles while neutral LEDs (M/P 0.54-0.57) match morning ambient light, enabling subjectively "white" productive illumination without sacrificing safety. Cool LEDs (M/P 0.64-0.68) achieve shade-like circadian efficiency through spectral pathology (blue spike without NIR) rather than spectral fidelity, representing a false equivalence that prioritizes circadian stimulus at catastrophic cost to photobiological safety. Strategic implementation of NIR-transparent selective glazing that transmits 700-1200 nm while blocking solar heat (>1400 nm) could minimize thermal penalties while preserving biological energy delivery.
+**Evolutionary architecture and hybrid lighting solutions:** Analysis of Roman domus architecture (100 BCE - 400 CE) reveals that central atrium design with overhead compluvium aperture provided full-spectrum daylight including deep NIR, delivering estimated SPR 2.0-4.0 and total NIR 35-45%-photobiologically superior to modern LED-lit buildings (SPR 0.8-1.8, total NIR 1-5%). This represents an existence proof that prolonged indoor occupation need not require NIR deficiency if architectural design prioritizes overhead natural light. We propose a hybrid strategy combining overhead skylights or clerestory windows (1-2 m² per 10 m² floor area) with warm LED task lighting (4000-4500K, CRI >97, R9 >92), predicted to deliver total NIR 25-40%, SPR 3.5-5.5, and 600-900 melanopic lux-balancing circadian efficacy, spectral safety, and mitochondrial energy delivery. Melanopic-to-photopic ratio matching reveals warm LEDs (M/P 0.49-0.51) approximate direct sunlight profiles while neutral LEDs (M/P 0.54-0.57) match morning ambient light, enabling subjectively "white" productive illumination without sacrificing safety. Cool LEDs (M/P 0.64-0.68) achieve shade-like circadian efficiency through spectral pathology (blue spike without NIR) rather than spectral fidelity, representing a false equivalence that prioritizes circadian stimulus at catastrophic cost to photobiological safety. Strategic implementation of NIR-transparent selective glazing that transmits 700-1200 nm while blocking solar heat (>1400 nm) could minimize thermal penalties while preserving biological energy delivery.
 
-Further validation through prospective epidemiological and controlled animal studies is warranted to establish evidence-based SPR safety thresholds and dose-response relationships. Critical research priorities include: (1) window glass epidemiology comparing AMD incidence between vintage vs. modern building occupants, (2) parametric animal studies relating SPR to retinal damage endpoints, (3) development of NIR-transparent Low-E coatings that preserve biological energy delivery, (4) biomarker studies (cortisol, vitamin D, inflammatory markers) in LED-only vs LED+NIR vs hybrid overhead-daylight environments, (5) controlled trials validating hybrid lighting architecture effects on fatigue, cognitive performance, and systemic biomarkers, and (6) long-term cohort studies comparing health outcomes across different indoor lighting and architectural environments. If confirmed, SPR-based lighting standards combined with biologically-informed architectural design—rediscovering the wisdom of overhead natural light as primary illumination with LED supplementation—could contribute to reduced population-level AMD risk and improved systemic health in an era of ubiquitous LED lighting and energy-efficient architecture.
+Further validation through prospective epidemiological and controlled animal studies is warranted to establish evidence-based SPR safety thresholds and dose-response relationships. Critical research priorities include: (1) window glass epidemiology comparing AMD incidence between vintage vs. modern building occupants, (2) parametric animal studies relating SPR to retinal damage endpoints, (3) development of NIR-transparent Low-E coatings that preserve biological energy delivery, (4) biomarker studies (cortisol, vitamin D, inflammatory markers) in LED-only vs LED+NIR vs hybrid overhead-daylight environments, (5) controlled trials validating hybrid lighting architecture effects on fatigue, cognitive performance, and systemic biomarkers, and (6) long-term cohort studies comparing health outcomes across different indoor lighting and architectural environments. If confirmed, SPR-based lighting standards combined with biologically-informed architectural design-rediscovering the wisdom of overhead natural light as primary illumination with LED supplementation-could contribute to reduced population-level AMD risk and improved systemic health in an era of ubiquitous LED lighting and energy-efficient architecture.
 
 ---
 

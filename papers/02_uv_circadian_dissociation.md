@@ -83,11 +83,11 @@ Table 1 presents the spectral characteristics under each filtering condition.
 | Illuminance (lux) | 3,279 | 3,964 | 2,865 |
 | CCT (K) | 5,856 | 5,675 | 5,971 |
 | UV/Violet % (380-420nm) | 3.82 | 0.80 | 0.24 |
-| UV block vs baseline | — | 79% | 94% |
+| UV block vs baseline | - | 79% | 94% |
 | S-cone % | 9.02 | 10.45 | 9.43 |
-| S-cone change | — | +16% | +5% |
+| S-cone change | - | +16% | +5% |
 | Melanopsin % | 9.51 | 11.56 | 10.56 |
-| Melanopsin change | — | +22% | +11% |
+| Melanopsin change | - | +22% | +11% |
 | SPR | 3.56 | 3.64 | 3.09 |
 | Blue:Red ratio | 0.52 | 0.51 | 0.58 |
 

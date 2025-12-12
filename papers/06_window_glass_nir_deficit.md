@@ -108,7 +108,7 @@ Table 1 presents transmission characteristics for each glazing condition.
 | Visible transmission | 100% | 81.7% | 46.6% |
 | NIR transmission (700-780nm) | 100% | 77.9% | 38.2% |
 | NIR % of total power | 17.4% | 16.7% | 14.3% |
-| NIR deficit | — | 3.8% | 8.4% |
+| NIR deficit | - | 3.8% | 8.4% |
 | SPR | 3.56 | 3.42 | 3.09 |
 
 ### 3.2 Wavelength-Specific Transmission
@@ -158,7 +158,7 @@ Even the NIR-depleted light through modern windows contains more NIR than the be
 
 ### 4.1 The NIR Deficit as Unintended Consequence
 
-Low-E coating technology was developed to improve thermal performance, and the NIR blocking is a direct consequence of this goal—NIR solar radiation contributes to solar heat gain. However, the biological implications of chronic NIR deprivation were not considered in coating design.
+Low-E coating technology was developed to improve thermal performance, and the NIR blocking is a direct consequence of this goal-NIR solar radiation contributes to solar heat gain. However, the biological implications of chronic NIR deprivation were not considered in coating design.
 
 The 8.4% NIR deficit in modern Low-E windows means that indoor light is spectrally different from outdoor light in ways that may affect:
 - Photobiomodulation-mediated cellular processes
@@ -178,7 +178,7 @@ Modern indoor environments often combine:
 - LED lighting (essentially zero NIR)
 - Limited outdoor exposure
 
-The cumulative effect is an unprecedented reduction in NIR exposure compared to historical or outdoor environments. Whether this matters for human health depends on the role of chronic NIR exposure in normal physiology—a question that remains incompletely answered.
+The cumulative effect is an unprecedented reduction in NIR exposure compared to historical or outdoor environments. Whether this matters for human health depends on the role of chronic NIR exposure in normal physiology-a question that remains incompletely answered.
 
 ### 4.4 Implications for Building Design
 
