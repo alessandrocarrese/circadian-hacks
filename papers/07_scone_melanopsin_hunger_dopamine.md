@@ -415,6 +415,8 @@ Natural **frontal light has lower S/M** (0.75-0.88) than **overhead light** (1.0
 - **Frontal/horizon light**: More direct sunpath, less Rayleigh scattering, warmer spectrum, lower S/M
 - **Overhead/sky light**: Pure scattered skylight, blue-enriched, higher S/M
 
+**Note on measurement conditions:** These measurements were taken on sunny days. Overcast skies would produce higher frontal S/M (more scattered skylight from all directions), but overcast conditions are also substantially dimmer-typically 1,000-10,000 lux vs 50,000-100,000 lux in direct sun. The total S-cone photon dose from elevated frontal S/M on cloudy days remains far below sustained high-intensity, high-S/M monitor exposure at close range.
+
 **Monitors invert the natural directional pattern:**
 
 | Direction | Natural S/M | Monitor S/M | Excess |
