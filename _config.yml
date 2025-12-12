@@ -1,0 +1,8 @@
+title: Circadian Hacks
+description: Research-based insights on how artificial lighting affects human health, metabolism, and circadian biology.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Navigation
+header_page_list:
+  - README.md
