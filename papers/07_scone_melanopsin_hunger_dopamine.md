@@ -397,6 +397,37 @@ Anecdotally, high-S/M light sources (cold LEDs, monitors) are reported to feel m
 
 The same cold LED at 6500K may feel tolerable as ceiling lighting but uncomfortable as a desk lamp at eye level-not because total illuminance differs, but because frontal positioning delivers the high-S/M spectrum directly to the S-cone-dense central retina. This subjective difference provides indirect support for the S/M spatial hypothesis: the discomfort tracks with S-cone stimulation geometry, not total photon flux.
 
+**Natural light confirms directional S/M segregation:**
+
+Spectral measurements comparing vertical (frontal) vs horizontal (overhead) natural light orientations reveal a striking pattern:
+
+**Table 7c. Natural S/M ratios by measurement orientation**
+
+| Measurement | Orientation | CCT (K) | S/M Ratio |
+|-------------|-------------|---------|-----------|
+| Morning dawn | Vertical (frontal) | 10,354 | 0.86 |
+| Sunrise +5min | Vertical (frontal) | 9,127 | 0.88 |
+| Indoor window | Vertical (frontal) | 4,658 | 0.75 |
+| Morning dawn | Horizontal (overhead) | 82,444 | 1.02 |
+| Morning dawn shade | Horizontal (overhead) | 99,999 | 1.06 |
+
+Natural **frontal light has lower S/M** (0.75-0.88) than **overhead light** (1.02-1.06). This is not coincidental-it reflects the physics of atmospheric scattering:
+- **Frontal/horizon light**: More direct sunpath, less Rayleigh scattering, warmer spectrum, lower S/M
+- **Overhead/sky light**: Pure scattered skylight, blue-enriched, higher S/M
+
+**Monitors invert the natural directional pattern:**
+
+| Direction | Natural S/M | Monitor S/M | Excess |
+|-----------|-------------|-------------|--------|
+| Frontal (→ fovea) | 0.75-0.88 | 1.33-2.90 | +70-280% |
+| Overhead (→ inferior retina) | 1.02-1.06 | (none) | N/A |
+
+The monitor user receives:
+1. **Frontal**: Massively elevated S/M to S-cone-dense fovea (wrong spectrum, right location)
+2. **Overhead**: Nothing (missing the natural high-S/M signal that would go to ipRGC-rich inferior retina)
+
+This double inversion-too much S/M where it should be low, no signal where S/M should be higher-may compound the dysregulation beyond what simple S/M ratio analysis would predict.
+
 **S-cone vulnerability to oxidative stress:**
 
 The discomfort from frontal high-S/M light may have a protective basis. S-cones are uniquely vulnerable among photoreceptors:
