@@ -325,7 +325,88 @@ Over extended exposure periods, the cumulative excess becomes substantial:
 
 Chronic exposure accumulates a massive excess of high-S/M stimulation with unknown but potentially significant long-term neurobiological effects.
 
-### 4.7 Clinical Correlations
+### 4.7 Spatial Dissociation: Why Windows Cannot Rescue Monitor Exposure
+
+A critical question arises: can ambient natural light from windows compensate for monitor S/M exposure? Total power analysis suggests yes-window light at 1000 lux contributes ~80% of total retinal irradiance when combined with a 185 lux monitor. However, this analysis ignores the spatial distribution of photoreceptors.
+
+**Table 7b. Monitor + Window power analysis**
+
+| Source | Lux | S-cone Power | Melanopsin Power | S/M Weighted |
+|--------|-----|--------------|------------------|--------------|
+| Monitor (cool) | 185 | 170.6 | 230.1 | 0.74 |
+| Window (vertical) | 1056 | 456.2 | 988.4 | 0.46 |
+| Combined (simple sum) | 1241 | 626.8 | 1218.5 | 0.51 |
+
+The combined S/M of 0.51 appears favorable-below the natural range maximum. However, this calculation assumes uniform retinal illumination, which does not occur in practice.
+
+**Retinal topography creates spatial segregation:**
+
+1. **S-cones concentrate in the fovea and parafovea** (central 10-15 degrees). When viewing a monitor, this high-density S-cone region receives predominantly monitor light.
+
+2. **Melanopsin-expressing ipRGCs concentrate in the inferior retina** (Dacey et al., 2005). They respond preferentially to light from the upper visual field-overhead and peripheral sources.
+
+3. **Monitor position** (frontal, typically below eye level) projects to central and superior retina, where S-cones are dense but ipRGCs are sparse.
+
+4. **Window light** (from side/above) projects to inferior and peripheral retina, where ipRGCs are concentrated.
+
+**The result is a spatially-segregated dissociation:**
+
+| Retinal Region | Primary Light Source | Receptor Density | Effective S/M |
+|----------------|---------------------|------------------|---------------|
+| Central fovea | Monitor (direct gaze) | S-cone: HIGH, ipRGC: LOW | ~0.74 |
+| Parafovea | Monitor + some window | S-cone: HIGH, ipRGC: LOW | ~0.65 |
+| Inferior peripheral | Window (upper field) | S-cone: LOW, ipRGC: HIGH | ~0.46 |
+
+This means:
+- The foveal region where visual attention is directed receives **monitor-dominated S/M ratios**
+- Window light activates melanopsin ipRGCs effectively, providing circadian signal
+- But window light **cannot rescue the S-cone overstimulation** occurring in foveal vision
+- The dopaminergic pathway (S-cone driven) and satiety pathway (melanopsin driven) receive **discordant signals from different light sources**
+
+**Implications for the "wanting without satisfaction" hypothesis:**
+
+Even in well-lit offices with large windows:
+- Melanopsin receives adequate natural-spectrum stimulation (satiety signal present)
+- S-cones in foveal vision receive chronic monitor-spectrum overstimulation (excessive "wanting" signal)
+- The two systems receive spectrally mismatched inputs from spatially segregated sources
+
+This may be worse than the simple calculation suggests: rather than a blended intermediate signal, the brain receives **two contradictory signals simultaneously**-strong satiety input from peripheral/inferior retina AND strong seeking input from foveal retina. The net effect on hypothalamic integration is unpredictable but unlikely to be the simple average.
+
+**The overhead light solution:**
+
+Unlike side windows, **overhead lighting** projects onto the inferior retina-precisely where ipRGC density is highest. This suggests a potential compensatory strategy:
+
+| Light Source Position | Retinal Projection | Primary Receptors Engaged |
+|----------------------|-------------------|---------------------------|
+| Monitor (frontal) | Central/superior retina | S-cones (HIGH), ipRGCs (LOW) |
+| Side window | Temporal/nasal peripheral | ipRGCs (MODERATE) |
+| Overhead light | Inferior retina | ipRGCs (HIGH) |
+
+Bright overhead lighting with appropriate spectrum (low S/M, adequate melanopic content) could potentially:
+1. Maximize ipRGC stimulation in their highest-density region
+2. Provide competing melanopsin input to the same hypothalamic circuits receiving S-cone-driven dopamine signals
+3. Partially restore the balance between "wanting" and satiety pathways
+
+This may explain why working in bright, overhead-lit environments feels different from working in dim rooms with only monitor illumination-even when total lux at eye level is similar. The spatial distribution of light matters as much as total intensity.
+
+**The dark gaming room as worst case:**
+
+The stereotypical gaming setup-monitor glowing in an otherwise dark room-represents the most extreme S/M dysregulation scenario:
+- **Zero competing melanopsin input**: No overhead or ambient light to stimulate ipRGCs
+- **Maximum S-cone stimulation**: Fovea receives undiluted high-S/M monitor spectrum
+- **Extended duration**: Gaming sessions often exceed 4-8 hours
+- **High engagement**: Attention locked to screen, minimizing even incidental peripheral light
+
+This configuration delivers pure, uncompensated S-cone overstimulation with no melanopsin-mediated satiety signal. The phenomenology of compulsive gaming-inability to stop, constant "one more game" seeking, snacking without hunger satisfaction-aligns precisely with the "wanting without liking" state predicted by chronic high S/M exposure. The addictive quality attributed to game design may be substantially amplified by the photobiological environment in which gaming typically occurs.
+
+**Practical implications:**
+1. Ambient natural light from side windows improves circadian signaling but cannot rescue foveal S-cone overstimulation
+2. **Overhead lighting may be more effective** than side windows for counteracting monitor-induced S/M dysregulation
+3. **Dark room + screen is the worst possible configuration** for S/M balance-even dim overhead lighting provides some ipRGC input
+4. Optimal workspace design should include bright overhead illumination with melanopic-appropriate spectrum
+5. Solutions must still address the monitor spectrum itself for complete correction
+
+### 4.8 Clinical Correlations
 
 Epidemiological associations between screen time and various conditions may be explained by chronic S/M dysregulation:
 
@@ -343,7 +424,7 @@ Epidemiological associations between screen time and various conditions may be e
 
 These associations are typically attributed to content (social media, gaming) or behavioral displacement (reduced exercise). The S/M hypothesis suggests a **photobiological mechanism independent of content**-the light itself may drive pathology regardless of what is displayed.
 
-### 4.8 Why 445nm?
+### 4.9 Why 445nm?
 
 LED manufacturers use 445nm blue chips because:
 1. High quantum efficiency at this wavelength
@@ -357,7 +438,7 @@ Biological compatibility was not a design criterion. A shift to 460-470nm primar
 - Maintain adequate color rendering
 - Require phosphor reformulation (technically feasible)
 
-### 4.9 Comparison: LED Types
+### 4.10 Comparison: LED Types
 
 **Table 9. Practical recommendations by S/M ratio**
 
@@ -370,7 +451,7 @@ Biological compatibility was not a design criterion. A shift to 460-470nm primar
 | 1.5-2.0 | Cold LED, some monitors | Significantly elevated | Avoid extended use |
 | > 2.0 | Standard monitors | Extreme aberrant signal | **Strongly avoid** |
 
-### 4.10 Method Validation: Weighted vs Unweighted S/M
+### 4.11 Method Validation: Weighted vs Unweighted S/M
 
 To validate the band integration method, all spectral measurements were re-analyzed using CIE action spectrum weighting. Table 10 compares the two methods.
 
@@ -391,7 +472,7 @@ Key observations:
 
 The band integration method systematically overestimates S/M ratios, but maintains discriminative power for comparing light sources. This validation confirms that the qualitative findings-monitors produce aberrantly high S/M relative to natural light-hold under rigorous action spectrum analysis.
 
-### 4.11 Limitations
+### 4.12 Limitations
 
 1. **No direct physiological measurement:** The hypothesis is based on spectral analysis and established neurobiology; direct measurement of hunger/dopamine under varying S/M conditions has not been performed.
 
@@ -401,7 +482,7 @@ The band integration method systematically overestimates S/M ratios, but maintai
 
 4. **Single location:** Natural light measurements at one latitude/season; spectral composition varies geographically.
 
-### 4.12 Future Directions
+### 4.13 Future Directions
 
 1. **Controlled feeding studies:** Measure hunger/satiety under matched-intensity light differing only in S/M ratio.
 
