@@ -171,14 +171,56 @@ Building shade (pure Rayleigh-scattered skylight, no direct sun) showed the high
 
 **Table 4. Computer monitor spectral characteristics**
 
-| Monitor | Blue Peak | S-cone % | Melanopsin % | S/M Ratio | vs Natural Max |
-|---------|-----------|----------|--------------|-----------|----------------|
-| Monitor (low blue) | 446nm | 19.10 | 14.39 | 1.33 | +18% |
-| Monitor (cool/normal) | 446nm | 21.18 | 7.30 | 2.90 | **+157%** |
+| Monitor | Size | Blue Peak | CCT | S/M Ratio | vs Natural Max |
+|---------|------|-----------|-----|-----------|----------------|
+| AOC (low blue mode) | 27" | 446nm | 3918K | 1.33 | +18% |
+| MacBook Pro | 14" | 448nm | 5304K | 2.41 | +113% |
+| AOC (cool/normal) | 27" | 446nm | 9525K | 2.90 | **+157%** |
 
 The standard "cool" monitor mode produced S/M ratio of 2.90, exceeding the natural maximum (1.13) by 157%.
 
-### 3.5 Spectral Peak Analysis
+### 3.5 Display Size and Effective S/M Dose
+
+Spectral S/M ratio alone does not fully characterize retinal exposure. Display size and viewing distance determine the solid angle subtended, which modulates effective dose.
+
+**Table 4b. Visual angle and effective S/M dose by display**
+
+| Display | Size | Viewing Distance | Horizontal Angle | Solid Angle | Relative Field Coverage |
+|---------|------|------------------|------------------|-------------|------------------------|
+| MacBook Pro | 14" (31×20 cm) | 50 cm | 34.4° | 0.21 sr | 1.0× (reference) |
+| AOC Monitor | 27" (60×34 cm) | 60 cm | 53.0° | 0.51 sr | 2.4× |
+
+**Effective S/M dose calculation:**
+
+Effective dose = S/M ratio × Solid angle coverage
+
+| Display | S/M Ratio | Solid Angle | Relative Dose | vs MacBook |
+|---------|-----------|-------------|---------------|------------|
+| MacBook Pro | 2.41 | 0.21 sr | 0.51 | 1.0× |
+| AOC (cool) | 2.90 | 0.51 sr | 1.48 | **2.9×** |
+
+The AOC 27" monitor at 60 cm delivers approximately **3× the effective S-cone stimulation** compared to a MacBook 14" at 50 cm, due to:
+1. Higher intrinsic S/M ratio (2.90 vs 2.41, +20%)
+2. Larger visual field coverage (0.51 sr vs 0.21 sr, +143%)
+
+**Vertical position provides additional geometric advantage:**
+
+Notebooks are typically positioned below eye level (15-20° downward gaze), while desktop monitors are positioned at or near eye level. This positioning difference affects retinal projection:
+
+| Display Type | Typical Position | Gaze Angle | Primary Retinal Projection |
+|--------------|------------------|------------|---------------------------|
+| Notebook | Below eye level | 15-20° down | Superior retina |
+| Desktop monitor | Eye level | 0-5° | Central retina (fovea) |
+
+Light from below eye level projects to the superior retina, where S-cone density is lower than in the fovea. Desktop monitors at eye level project directly to the foveal region where S-cone concentration is maximal. This provides notebooks a second geometric advantage beyond screen size: the high-S/M spectrum partially misses the S-cone-dense foveal center.
+
+Combined effect: Notebooks deliver ~3× less effective S-cone stimulation than large desktop monitors due to:
+1. Smaller solid angle (~2.4× less field coverage)
+2. Below-eye positioning (partial foveal sparing)
+
+This explains why notebooks with similar or even worse spectral S/M ratios (e.g., MacBook at S/M 2.41) subjectively feel less harsh than desktop monitors-the geometry compensates for the spectrum.
+
+### 3.6 Spectral Peak Analysis
 
 **Table 5. Blue peak wavelength by source type**
 
@@ -194,7 +236,7 @@ Key finding: Monitors with peaks at 445-448nm showed the highest S/M ratios due 
 2. Sharp spectral falloff reducing melanopsin activation
 3. Minimal emission in cyan (470-500nm) range
 
-### 3.6 S-cone Sensitivity at Key Wavelengths
+### 3.7 S-cone Sensitivity at Key Wavelengths
 
 S-cone sensitivity was modeled as Gaussian function peaking at 440nm (σ ≈ 20nm):
 
