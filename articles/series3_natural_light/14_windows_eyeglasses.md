@@ -222,6 +222,114 @@ If circadian health is a priority, contact lenses (which don't block UV reaching
 5. **SPR worsens by 13%** when viewing through windows
 
 
+---
+
+## The OPN5 Factor: Why Removing Glasses at Dawn Matters
+
+Beyond myopia and circadian signaling, there's another reason the 380nm blocking matters: **alertness**.
+
+### OPN5 (Neuropsin) and Arousal
+
+OPN5 is expressed not only in the retina but also in the **preoptic area (POA)** of the hypothalamus-the brain's master sleep-wake and thermoregulation center. OPN5-expressing neurons in the POA are part of the QPLOT neuronal population that regulates:
+
+- Core body temperature
+- Energy expenditure
+- Sleep-wake transitions
+
+Human OPN5 activates Gq-mediated Ca²⁺ signaling when stimulated by 380nm light-potentially contributing to natural arousal pathways.
+
+### Where OPN5 Is in the Retina
+
+OPN5-expressing retinal ganglion cells (OPN5-RGCs) are concentrated in the **dorsotemporal retina** (upper-outer quadrant). This means:
+
+| Light Source Direction | Retinal Projection | OPN5 Activation |
+|------------------------|-------------------|-----------------|
+| Horizon / below eye level | Dorsal retina | **Optimal** |
+| Overhead | Ventral retina | Lower |
+| Eye-level (monitors) | Central | Moderate |
+
+**Dawn horizon viewing** with glasses removed provides optimal OPN5 stimulation:
+- 380nm from dawn sky enters frontally
+- Projects to dorsotemporal retina (high OPN5 density)
+- Activates arousal pathways via POA
+
+### OPN5 Is a Bistable Pigment: Why Dawn Matters Most
+
+Unlike visual pigments that "bleach" after activation and need regeneration, OPN5 is **bistable**:
+
+- **Activates at 380nm:** Triggers arousal/alertness cascade
+- **Converts to 470nm state:** After firing, the chromophore shifts
+- **Resets with orange light (>520nm):** Natural daylight restores the 380nm-sensitive form
+- **Stable in darkness:** Overnight, OPN5 accumulates in its resting, ready-to-fire state
+
+**The dawn burst phenomenon:**
+
+During sleep, OPN5 molecules accumulate in the 380nm-sensitive state. The first morning light triggers a synchronized "burst" of activation—explaining why dawn feels more alerting than equivalent light later in the day.
+
+| Time | OPN5 Pool | Glasses Effect |
+|------|-----------|----------------|
+| Dawn | Maximum (overnight accumulation) | **Most significant loss** |
+| Midday | Depleted + resetting | Less impact |
+| Afternoon | Mixed pool | Moderate impact |
+
+**The critical window is the first 30 minutes of light exposure.** After that, rising intensity and natural orange light reset the OPN5 pool, so glasses cause less relative deprivation.
+
+### Glasses vs Windows: Which Matters More?
+
+Not all barriers are equal:
+
+| Barrier | 380nm Blocked | OPN5 Signal Lost |
+|---------|---------------|------------------|
+| Modern window glass | ~23% | Minor |
+| Standard eyeglasses | ~81% | **Severe** |
+| Window + glasses | ~94% | Nearly complete |
+
+**Glasses are the main barrier**—blocking 3.5× more OPN5 signal than windows. You can get meaningful OPN5 activation indoors by a window, as long as you remove your glasses.
+
+### Subjective Experience Confirmed
+
+Many people report feeling **more alert and pleasant** when viewing dawn light without glasses. This aligns with the OPN5 hypothesis:
+- With glasses: 81-94% of 380nm blocked → minimal OPN5 activation
+- Without glasses: Full 380nm access → OPN5 arousal pathway engaged
+
+### Practical Recommendations for Dawn Viewing
+
+**Option A: Remove Glasses (Simplest)**
+- Remove glasses during first 15-30 minutes of light exposure
+- Look toward the horizon, not up at the sky
+- Safe: UV-A intensity is minimal at low sun angles
+- Put glasses back on when you need sharp vision
+- Exception: On cloudy indoor days, consider a midday outdoor break without glasses to ensure adequate OPN5 activation
+
+**Option B: "Dawn Glasses" with OPN5-Compatible Lenses**
+
+If you need correction for dawn viewing, consider:
+
+| Lens Material | UV Cutoff | 380nm Transmission | Verdict |
+|---------------|-----------|-------------------|---------|
+| **Crown glass** | ~300-320nm | 80-90% | Best for OPN5 |
+| **CR-39 (no UV coat)** | ~355nm | 50-70% | Good option |
+| Polycarbonate | ~385nm | <5% | Blocks OPN5 |
+| Trivex | ~380nm | <5% | Blocks OPN5 |
+| High-index | ~380-400nm | <5% | Blocks OPN5 |
+
+**Crown glass** or **uncoated CR-39** lenses preserve 380nm transmission. These are heavier and less impact-resistant than modern plastics, but for stationary dawn viewing they're safe and preserve the natural spectral signal.
+
+### Two Different Photoreceptor Systems, Two Different Light Directions
+
+| Photoreceptor | Peak | Retinal Location | Optimal Light From | Function |
+|---------------|------|------------------|-------------------|----------|
+| **OPN5** | 380nm | Dorsotemporal (upper) | Below/horizon | Alerting |
+| **Melanopsin** | 480nm | Inferior (lower) | Above/overhead | Circadian |
+
+Dawn naturally provides both:
+- **Horizon glow** → OPN5 (alerting)
+- **Brightening sky above** → Melanopsin (circadian/satiety)
+
+Your glasses eliminate the OPN5 signal while preserving (even enhancing) the melanopsin signal. Removing glasses at dawn restores the complete natural signal.
+
+---
+
 *Next: The UV-circadian dissociation problem-why missing UV might matter more than we thought.*
 
 

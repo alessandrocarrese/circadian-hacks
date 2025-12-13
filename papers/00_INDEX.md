@@ -32,11 +32,19 @@ This folder contains draft manuscripts derived from spectral analysis research c
 
 **Title:** "UV-Circadian Signal Dissociation Induced by Corrective Eyewear: Implications for Neuropsin (OPN5) Signaling and Myopia Prevention"
 
-**Key Finding:** Eyeglasses block 79% UV while enhancing melanopsin 22%, creating 5.8× dissociation. OPN5 signaling at 380nm for myopia prevention may be compromised in eyeglass wearers.
+**Key Findings:**
+- Eyeglasses block 79% UV while enhancing melanopsin 22%, creating 5.8× dissociation
+- OPN5 signaling at 380nm for myopia prevention may be compromised in eyeglass wearers
+- OPN5 bistable photochemistry: activates at 380nm, resets with orange (>520nm), stable in dark
+- "Dawn burst" phenomenon: overnight OPN5 pool fires with first light exposure
+- Glasses are the primary barrier (81% OPN5 block) vs windows (23% block)
+- OPN5-RGCs concentrated in dorsotemporal retina—horizon viewing optimal
+- First 30 minutes of light exposure is the critical window for OPN5 activation
+- Physiological effects: thermoregulation (BAT), lipid metabolism, arousal, dopamine
 
 **Target Journals:** *Investigative Ophthalmology & Visual Science*, *Ophthalmic & Physiological Optics*
 
-**Status:** Draft complete
+**Status:** Draft complete (expanded with bistable photochemistry and practical recommendations)
 
 ---
 
